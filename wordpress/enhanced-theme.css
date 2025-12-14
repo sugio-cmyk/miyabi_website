@@ -110,3 +110,13 @@ h6 {
 .site-footer a:hover {
     color: white;
 }
+
+/* ============================================
+   LIGHTNING THEME OVERRIDES
+   ============================================ */
+/* セクション見出しの青い線を無効化 */
+.wp-block-heading,
+h2.wp-block-heading {
+    border-top: none !important;
+    padding-top: 0 !important;
+}

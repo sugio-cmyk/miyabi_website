@@ -32,12 +32,13 @@
 		<guid isPermaLink="false">http://miyabi-sr.local/services/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">サービス</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:1.1rem">みやび社会保険労務士事務所では、中小企業様の人事労務に関する業務を幅広くサポートいたします。</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:1.1rem">みやび社会保険労務士事務所では、中小企業様の人事労務に関する業務を幅広くサポートいたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -55,7 +56,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な社会保険・労働保険業務を正確かつ丁寧に代行いたします。担当者の負担を軽減し、安心して本業に集中できる体制づくりを支援いたします。</p>
+<p class="has-text-color" style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な社会保険・労働保険業務を正確かつ丁寧に代行いたします。担当者の負担を軽減し、安心して本業に集中できる体制づくりを支援いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -73,7 +74,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">毎月の給与計算を正確かつ丁寧に行い、給与明細書の作成まで一貫して対応いたします。締切に追われる不安を減らし、経営者様とご担当者様の業務負担を軽減いたします。</p>
+<p class="has-text-color" style="color:#718096">毎月の給与計算を正確かつ丁寧に行い、給与明細書の作成まで一貫して対応いたします。締切に追われる不安を減らし、経営者様とご担当者様の業務負担を軽減いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -91,7 +92,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">働きやすい職場環境づくりを幅広くサポートいたします。就業規則の整備や日々の労務相談をはじめ、助成金申請の支援、労働基準監督署・年金事務所の調査対応まで、一貫して対応いたします。</p>
+<p class="has-text-color" style="color:#718096">働きやすい職場環境づくりを幅広くサポートいたします。就業規則の整備や日々の労務相談をはじめ、助成金申請の支援、労働基準監督署・年金事務所の調査対応まで、一貫して対応いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
@@ -105,16 +106,18 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
+<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">まずはお気軽にご相談ください</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center" style="color:#ffffff">初回相談は無料です。御社の状況に合わせた最適なプランをご提案いたします。</p>
+<p class="has-text-color has-text-align-center" style="color:#ffffff">初回相談は無料です。御社の状況に合わせた最適なプランをご提案いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">お問い合わせ →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -146,7 +149,8 @@
 		<guid isPermaLink="false">http://miyabi-sr.local/about/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">事務所概要</h1>
 <!-- /wp:heading -->
 
@@ -161,19 +165,19 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">みやび社会保険労務士事務所のホームページをご覧いただき、誠にありがとうございます。</p>
+<p class="has-text-color" style="color:#2d3748">みやび社会保険労務士事務所のホームページをご覧いただき、誠にありがとうございます。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">当事務所は、「人を大切にする会社づくり」をモットーに、中小企業の皆様の労務管理をサポートしております。</p>
+<p class="has-text-color" style="color:#2d3748">当事務所は、「人を大切にする会社づくり」をモットーに、中小企業の皆様の労務管理をサポートしております。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">社会保険労務士として、手続きの代行だけでなく、経営者様と従業員の皆様が安心して働ける職場環境づくりのお手伝いをさせていただきたいと考えております。</p>
+<p class="has-text-color" style="color:#2d3748">社会保険労務士として、手続きの代行だけでなく、経営者様と従業員の皆様が安心して働ける職場環境づくりのお手伝いをさせていただきたいと考えております。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"right","style":{"color":{"text":"#1a365d"}}} -->
-<p class="has-text-align-right" style="color:#1a365d">みやび社会保険労務士事務所<br>代表 社会保険労務士 杉尾雅人</p>
+<p class="has-text-color has-text-align-right" style="color:#1a365d">みやび社会保険労務士事務所<br>代表 社会保険労務士 杉尾雅人</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -197,7 +201,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">香川県全域（坂出市、高松市、丸亀市、善通寺市 など）に対応しております。オンラインでのご相談も可能ですので、お気軽にお問い合わせください。</p>
+<p class="has-text-color" style="color:#718096">香川県全域（坂出市、高松市、丸亀市、善通寺市 など）に対応しております。オンラインでのご相談も可能ですので、お気軽にお問い合わせください。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -205,16 +209,18 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
+<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">お気軽にご連絡ください</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center" style="color:#ffffff">初回相談は無料です。</p>
+<p class="has-text-color has-text-align-center" style="color:#ffffff">初回相談は無料です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">お問い合わせはこちら →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -246,12 +252,13 @@
 		<guid isPermaLink="false">http://miyabi-sr.local/faq/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">よくある質問</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center" style="color:#718096">お客様からよくいただくご質問をまとめました。</p>
+<p class="has-text-color has-text-align-center" style="color:#718096">お客様からよくいただくご質問をまとめました。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -267,12 +274,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 社会保険労務士に依頼するメリットは何ですか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">届出や申請のミスを防ぎ、経営者様が本業に専念できる時間を確保できます。また、法改正にも対応いたしますので、知らないうちに法令違反になっていたというリスクを避けることができます。</p>
+<p class="has-text-color" style="color:#718096">届出や申請のミスを防ぎ、経営者様が本業に専念できる時間を確保できます。また、法改正にも対応いたしますので、知らないうちに法令違反になっていたというリスクを避けることができます。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -281,12 +289,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 顧問契約の費用はどのくらいですか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">当事務所では、顧問契約と給与計算のセットプランで月額2万円から承っております。従業員50名様の場合は月額7万5千円程度となります。</p>
+<p class="has-text-color" style="color:#718096">当事務所では、顧問契約と給与計算のセットプランで月額2万円から承っております。従業員50名様の場合は月額7万5千円程度となります。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -295,12 +304,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 顧問契約とスポット契約の違いは何ですか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">顧問契約は、社会保険等の手続きを件数に関わらず毎月定額でお任せいただけるプランです。スポット契約は1件ごとに料金が発生いたします。</p>
+<p class="has-text-color" style="color:#718096">顧問契約は、社会保険等の手続きを件数に関わらず毎月定額でお任せいただけるプランです。スポット契約は1件ごとに料金が発生いたします。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -317,12 +327,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 従業員を採用したら何日以内に届出が必要ですか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">雇用保険は採用日の属する月の翌月10日まで、健康保険・厚生年金保険は採用日から5日以内に届出が必要です。</p>
+<p class="has-text-color" style="color:#718096">雇用保険は採用日の属する月の翌月10日まで、健康保険・厚生年金保険は採用日から5日以内に届出が必要です。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -331,12 +342,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. パートやアルバイトも社会保険に加入させる必要がありますか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">週20時間以上の勤務で、月額賃金が8万8千円以上など、一定の条件を満たす場合は加入が義務付けられています。</p>
+<p class="has-text-color" style="color:#718096">週20時間以上の勤務で、月額賃金が8万8千円以上など、一定の条件を満たす場合は加入が義務付けられています。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -353,12 +365,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 給与計算のみを依頼することはできますか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">当事務所では給与計算のみのご依頼は承っておりません。顧問契約とセットでのご提供となります。</p>
+<p class="has-text-color" style="color:#718096">当事務所では給与計算のみのご依頼は承っておりません。顧問契約とセットでのご提供となります。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -367,12 +380,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 年末調整は依頼できますか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">年末調整は税理士の業務範囲となるため対応しておりませんが、提携税理士をご紹介可能です。</p>
+<p class="has-text-color" style="color:#718096">年末調整は税理士の業務範囲となるため対応しておりませんが、提携税理士をご紹介可能です。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -389,12 +403,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 就業規則は何人から作成義務がありますか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">常時10人以上の従業員がいる事業所には、就業規則の作成と届出が法律で義務付けられています。</p>
+<p class="has-text-color" style="color:#718096">常時10人以上の従業員がいる事業所には、就業規則の作成と届出が法律で義務付けられています。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -403,12 +418,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 就業規則の作成費用はどのくらいですか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">当事務所では10万円から承っております。会社の規模や業種によって異なります。</p>
+<p class="has-text-color" style="color:#718096">当事務所では10万円から承っております。会社の規模や業種によって異なります。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -425,12 +441,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:2rem;padding-bottom:1.5rem;padding-left:2rem">
+<!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.1rem"}}} -->
 <h3 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.1rem">Q. 助成金は誰でも受給できますか？</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">労働保険に加入していることなど、いくつかの要件がございます。まずは受給の可能性について診断されることをお勧めいたします。</p>
+<p class="has-text-color" style="color:#718096">労働保険に加入していることなど、いくつかの要件がございます。まずは受給の可能性について診断されることをお勧めいたします。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -439,7 +456,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:0.85rem">※ 記載の料金はすべて税別表記です。</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:0.85rem">※ 記載の料金はすべて税別表記です。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -447,16 +464,18 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
+<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">その他のご質問はお気軽にどうぞ</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center" style="color:#ffffff">こちらにないご質問も、お電話やフォームからお気軽にお問い合わせください。</p>
+<p class="has-text-color has-text-align-center" style="color:#ffffff">こちらにないご質問も、お電話やフォームからお気軽にお問い合わせください。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">お問い合わせ →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
@@ -488,12 +507,13 @@
 		<guid isPermaLink="false">http://miyabi-sr.local/contact/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">お問い合わせ</h1>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center" style="color:#718096">ご質問やご相談がございましたら、お気軽にお問い合わせください。</p>
+<p class="has-text-color has-text-align-center" style="color:#718096">ご質問やご相談がございましたら、お気軽にお問い合わせください。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"24px"} -->
@@ -501,16 +521,17 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:1rem;padding-bottom:1rem;display:flex;flex-wrap:wrap;justify-content:center"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
-<p style="color:#718096;padding-right:1rem;padding-left:1rem">💻 オンライン対応可</p>
+<div class="wp-block-group" style="padding-top:1rem;padding-bottom:1rem;display:flex;flex-wrap:wrap;justify-content:center">
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
+<p class="has-text-color" style="color:#718096;padding-right:1rem;padding-left:1rem">💻 オンライン対応可</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
-<p style="color:#718096;padding-right:1rem;padding-left:1rem">⏰ 2営業日以内に返信</p>
+<p class="has-text-color" style="color:#718096;padding-right:1rem;padding-left:1rem">⏰ 2営業日以内に返信</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
-<p style="color:#718096;padding-right:1rem;padding-left:1rem">🔒 秘密厳守</p>
+<p class="has-text-color" style="color:#718096;padding-right:1rem;padding-left:1rem">🔒 秘密厳守</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -529,7 +550,7 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-weight:700">STEP 1</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-weight:700">STEP 1</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
@@ -537,17 +558,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
-<p class="has-text-align-center" style="color:#1a365d;font-weight:600">お問い合わせ</p>
+<p class="has-text-color has-text-align-center" style="color:#1a365d;font-weight:600">お問い合わせ</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:0.85rem">フォームまたはお電話</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:0.85rem">フォームまたはお電話</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-weight:700">STEP 2</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-weight:700">STEP 2</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
@@ -555,17 +576,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
-<p class="has-text-align-center" style="color:#1a365d;font-weight:600">ヒアリング</p>
+<p class="has-text-color has-text-align-center" style="color:#1a365d;font-weight:600">ヒアリング</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:0.85rem">お悩みを詳しくお聞きします</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:0.85rem">お悩みを詳しくお聞きします</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-weight:700">STEP 3</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-weight:700">STEP 3</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
@@ -573,17 +594,17 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
-<p class="has-text-align-center" style="color:#1a365d;font-weight:600">ご提案</p>
+<p class="has-text-color has-text-align-center" style="color:#1a365d;font-weight:600">ご提案</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:0.85rem">最適なプランをご提案</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:0.85rem">最適なプランをご提案</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
 <!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-weight:700">STEP 4</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-weight:700">STEP 4</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
@@ -591,11 +612,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
-<p class="has-text-align-center" style="color:#1a365d;font-weight:600">ご契約</p>
+<p class="has-text-color has-text-align-center" style="color:#1a365d;font-weight:600">ご契約</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p class="has-text-align-center" style="color:#718096;font-size:0.85rem">サポート開始</p>
+<p class="has-text-color has-text-align-center" style="color:#718096;font-size:0.85rem">サポート開始</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -607,12 +628,13 @@
 <!-- wp:columns -->
 <div class="wp-block-columns"><!-- wp:column {"width":"60%"} -->
 <div class="wp-block-column" style="flex-basis:60%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem">
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
 <h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">お問い合わせフォーム</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">以下のフォームに必要事項をご記入ください。2営業日以内にご返信いたします。</p>
+<p class="has-text-color" style="color:#718096">以下のフォームに必要事項をご記入ください。2営業日以内にご返信いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:shortcode -->
@@ -623,16 +645,17 @@
 
 <!-- wp:column {"width":"40%"} -->
 <div class="wp-block-column" style="flex-basis:40%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p style="color:#718096;font-size:0.85rem">📞 お電話</p>
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">📞 お電話</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
-<p style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">XXX-XXX-XXXX</p>
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">XXX-XXX-XXXX</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.8rem"}}} -->
-<p style="color:#718096;font-size:0.8rem">平日 9:00〜18:00</p>
+<p class="has-text-color" style="color:#718096;font-size:0.8rem">平日 9:00〜18:00</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -641,12 +664,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p style="color:#718096;font-size:0.85rem">✉️ メール</p>
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">✉️ メール</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
-<p style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">info@miyabi-sr.com</p>
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">info@miyabi-sr.com</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
@@ -655,12 +679,13 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
-<p style="color:#718096;font-size:0.85rem">📍 所在地</p>
+<div class="wp-block-group has-white-background-color has-background" style="border-radius:16px;border-width:1px;border-style:solid;border-color:#cbd5e0;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem">
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">📍 所在地</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
-<p style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">香川県坂出市</p>
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">香川県坂出市</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column --></div>
@@ -692,8 +717,9 @@
 		<guid isPermaLink="false">http://miyabi-sr.local/home/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:cover {"url":"http://miyabi-sr.local/wp-content/uploads/2025/12/hero-bg.jpg","dimRatio":50,"minHeight":600,"minHeightUnit":"px","gradient":"vivid-cyan-blue-to-vivid-purple","align":"full","style":{"spacing":{"padding":{"top":"6rem","bottom":"6rem"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:6rem;padding-bottom:6rem;min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim has-background-gradient has-vivid-cyan-blue-to-vivid-purple-gradient-background"></span><img class="wp-block-cover__image-background" alt="" src="http://miyabi-sr.local/wp-content/uploads/2025/12/hero-bg.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","style":{"border":{"radius":"50px","width":"1px","style":"solid","color":"rgba(255,255,255,0.2)"},"spacing":{"padding":{"top":"0.5rem","right":"1.5rem","bottom":"0.5rem","left":"1.5rem"}},"typography":{"fontSize":"0.9rem"},"color":{"text":"#ffffff","background":"rgba(255,255,255,0.15)"}}} -->
-<p class="has-text-align-center has-text-color has-background" style="border-color:rgba(255,255,255,0.2);border-style:solid;border-width:1px;border-radius:50px;color:#ffffff;background-color:rgba(255,255,255,0.15);padding-top:0.5rem;padding-right:1.5rem;padding-bottom:0.5rem;padding-left:1.5rem;font-size:0.9rem">香川県坂出市の社会保険労務士</p>
+<div class="wp-block-cover alignfull" style="padding-top:6rem;padding-bottom:6rem;min-height:600px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-50 has-background-dim has-background-gradient has-vivid-cyan-blue-to-vivid-purple-gradient-background"></span><img class="wp-block-cover__image-background" alt="" src="http://miyabi-sr.local/wp-content/uploads/2025/12/hero-bg.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container">
+<!-- wp:paragraph {"align":"center","style":{"border":{"radius":"50px","width":"1px","style":"solid","color":"rgba(255,255,255,0.2)"},"spacing":{"padding":{"top":"0.5rem","right":"1.5rem","bottom":"0.5rem","left":"1.5rem"}},"typography":{"fontSize":"0.9rem"},"color":{"text":"#ffffff","background":"rgba(255,255,255,0.15)"}}} -->
+<p class="has-text-align-center has-text-color has-background" style="border-radius:50px;border-width:1px;border-style:solid;border-color:rgba(255,255,255,0.2);color:#ffffff;background-color:rgba(255,255,255,0.15);padding-top:0.5rem;padding-right:1.5rem;padding-bottom:0.5rem;padding-left:1.5rem;font-size:0.9rem">香川県坂出市の社会保険労務士</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.5rem"},"color":{"text":"#ffffff"}}} -->
@@ -701,69 +727,76 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center" style="color:#ffffff;font-size:1.1rem">みやび社会保険労務士事務所は、<br>人を大切にする会社づくりをお手伝いします。</p>
+<p class="has-text-align-center has-text-color" style="color:#ffffff;font-size:1.1rem">みやび社会保険労務士事務所は、<br>人を大切にする会社づくりをお手伝いします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"2rem"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons" style="margin-top:2rem"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-buttons" style="margin-top:2rem">
+<!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">無料相談を申し込む</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"className":"is-style-outline","style":{"border":{"radius":"50px","width":"2px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}},"color":{"text":"#ffffff"}}} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="/services/" style="border-width:2px;border-radius:50px;color:#ffffff;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">サービスを見る</a></div>
+<div class="has-text-color wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="/services/" style="border-width:2px;border-radius:50px;color:#ffffff;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">サービスを見る</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div></div>
 <!-- /wp:cover -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem"}}},"backgroundColor":"white","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="padding-top:2rem;padding-bottom:2rem;display:flex;flex-wrap:wrap;justify-content:center"><!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="padding-top:2rem;padding-bottom:2rem;display:flex;flex-wrap:wrap;justify-content:center">
+<!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🏅</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">社会保険労務士国家資格</p>
+<p class="has-text-color" style="color:#2d3748">社会保険労務士国家資格</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🤝</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">初回相談無料</p>
+<p class="has-text-color" style="color:#2d3748">初回相談無料</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🏢</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">中小企業専門</p>
+<p class="has-text-color" style="color:#2d3748">中小企業専門</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap">
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">📍</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p style="color:#2d3748">香川県全域対応</p>
+<p class="has-text-color" style="color:#2d3748">香川県全域対応</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">選ばれる理由</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">FEATURES</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">FEATURES</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -781,7 +814,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">経営者様のお悩みに寄り添い、丁寧にヒアリング。最適な解決策をご提案いたします。</p>
+<p class="has-text-color" style="color:#718096">経営者様のお悩みに寄り添い、丁寧にヒアリング。最適な解決策をご提案いたします。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -795,7 +828,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">社会保険・労働保険の各種手続きを正確・迅速に代行。面倒な書類作成から解放されます。</p>
+<p class="has-text-color" style="color:#718096">社会保険・労働保険の各種手続きを正確・迅速に代行。面倒な書類作成から解放されます。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -809,19 +842,20 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">就業規則の整備から助成金活用まで、専門家の視点で会社の成長をサポートいたします。</p>
+<p class="has-text-color" style="color:#718096">就業規則の整備から助成金活用まで、専門家の視点で会社の成長をサポートいたします。</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}},"color":{"background":"#faf9f7"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="background-color:#faf9f7;padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-group has-background" style="background-color:#faf9f7;padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">サービス</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
-<p class="has-text-align-center" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">SERVICES</p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">SERVICES</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"40px"} -->
@@ -839,11 +873,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な業務を正確に代行いたします。</p>
+<p class="has-text-color" style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な業務を正確に代行いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"}}} -->
-<p class="has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -857,11 +891,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">毎月の給与計算を正確・丁寧に行い、給与明細書の作成まで対応いたします。</p>
+<p class="has-text-color" style="color:#718096">毎月の給与計算を正確・丁寧に行い、給与明細書の作成まで対応いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"}}} -->
-<p class="has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -875,11 +909,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p style="color:#718096">就業規則の整備、助成金申請、労務相談まで幅広くサポートいたします。</p>
+<p class="has-text-color" style="color:#718096">就業規則の整備、助成金申請、労務相談まで幅広くサポートいたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"}}} -->
-<p class="has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
+<p class="has-text-color has-text-align-center" style="color:#c9a227"><a href="/services/">詳しく見る →</a></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -889,23 +923,26 @@
 <!-- /wp:spacer -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"border":{"radius":"50px","width":"2px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}},"color":{"text":"#1a365d"}}} -->
-<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="/services/" style="border-width:2px;border-radius:50px;color:#1a365d;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">サービス詳細を見る →</a></div>
+<div class="wp-block-buttons">
+<!-- wp:button {"className":"is-style-outline","style":{"border":{"radius":"50px","width":"2px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}},"color":{"text":"#1a365d"}}} -->
+<div class="has-text-color wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="/services/" style="border-width:2px;border-radius:50px;color:#1a365d;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">サービス詳細を見る →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
+<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","level":2,"style":{"color":{"text":"#ffffff"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">まずはお気軽にご相談ください</h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
-<p class="has-text-align-center" style="color:#ffffff">初回相談は無料です。御社の状況に合わせた最適なプランをご提案いたします。</p>
+<p class="has-text-color has-text-align-center" style="color:#ffffff">初回相談は無料です。御社の状況に合わせた最適なプランをご提案いたします。</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-buttons">
+<!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
 <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">無料相談を申し込む →</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
