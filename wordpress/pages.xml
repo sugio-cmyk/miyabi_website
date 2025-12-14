@@ -501,7 +501,7 @@
 <!-- /wp:spacer -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem"}}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
-<div class="wp-block-group" style="padding-top:1rem;padding-bottom:1rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
+<div class="wp-block-group" style="padding-top:1rem;padding-bottom:1rem;display:flex;flex-wrap:wrap;justify-content:center"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"spacing":{"padding":{"left":"1rem","right":"1rem"}}}} -->
 <p style="color:#718096;padding-right:1rem;padding-left:1rem">💻 オンライン対応可</p>
 <!-- /wp:paragraph -->
 
@@ -716,8 +716,8 @@
 <!-- /wp:cover -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem"}}},"backgroundColor":"white","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center"}} -->
-<div class="wp-block-group has-white-background-color has-background" style="padding-top:2rem;padding-bottom:2rem"><!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group has-white-background-color has-background" style="padding-top:2rem;padding-bottom:2rem;display:flex;flex-wrap:wrap;justify-content:center"><!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🏅</p>
 <!-- /wp:paragraph -->
 
@@ -727,7 +727,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🤝</p>
 <!-- /wp:paragraph -->
 
@@ -737,7 +737,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">🏢</p>
 <!-- /wp:paragraph -->
 
@@ -747,7 +747,7 @@
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"left":"1.5rem","right":"1.5rem"}}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->
-<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
+<div class="wp-block-group" style="padding-right:1.5rem;padding-left:1.5rem;display:flex;flex-wrap:nowrap"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.5rem"}}} -->
 <p style="font-size:1.5rem">📍</p>
 <!-- /wp:paragraph -->
 
