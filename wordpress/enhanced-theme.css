@@ -1,0 +1,112 @@
+/* ============================================
+   Miyabi SR - WordPress Theme CSS
+   Version: 7.0
+   
+   ■ XMLで管理（Gutenbergブロック）:
+     - font-size, color, padding, margin
+     - background-color, border-radius
+     - グラデーション背景
+   
+   ■ CSSで管理（本ファイル）:
+     - :hover エフェクト
+     - transition アニメーション
+     - @import フォント
+     - box-shadow（Gutenberg非対応）
+   
+   詳細: specification.md §10 参照
+   ============================================ */
+
+/* ============================================
+   FONTS
+   ============================================ */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;600;700&display=swap');
+
+/* ============================================
+   BASE STYLES
+   ============================================ */
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Serif JP', serif;
+}
+
+/* ============================================
+   BUTTON HOVER EFFECTS
+   ============================================ */
+.wp-block-button__link {
+    transition: all 0.3s ease;
+}
+
+/* プライマリボタン hover */
+.wp-block-button:not(.is-style-outline) .wp-block-button__link:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 25px rgba(201, 162, 39, 0.5);
+}
+
+/* アウトラインボタン（白背景上）hover */
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+    background: #1a365d;
+    color: #ffffff;
+    border-color: #1a365d;
+}
+
+/* アウトラインボタン（カバーブロック内）hover */
+.wp-block-cover .wp-block-button.is-style-outline .wp-block-button__link:hover {
+    background: rgba(255, 255, 255, 0.2);
+}
+
+/* ============================================
+   CARD STYLES
+   ============================================ */
+.wp-block-column,
+.wp-block-group {
+    transition: all 0.3s ease;
+}
+
+/* カードホバー */
+.wp-block-column.has-background:hover,
+.wp-block-group.has-background:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+}
+
+/* ============================================
+   FORM FOCUS STATES
+   ============================================ */
+.wpcf7-form-control {
+    transition: all 0.3s ease;
+}
+
+.wpcf7-form-control:focus {
+    border-color: #1a365d;
+    outline: none;
+}
+
+/* ============================================
+   NAV LINK HOVER
+   ============================================ */
+.global-nav a {
+    transition: color 0.3s ease;
+}
+
+.global-nav a:hover {
+    color: #c9a227;
+}
+
+/* ============================================
+   FOOTER LINK HOVER
+   ============================================ */
+.site-footer a {
+    transition: color 0.3s ease;
+}
+
+.site-footer a:hover {
+    color: white;
+}

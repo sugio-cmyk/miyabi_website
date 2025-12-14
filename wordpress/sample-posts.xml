@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0"
+    xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:wp="http://wordpress.org/export/1.2/">
+
+<channel>
+    <title>みやび社会保険労務士事務所</title>
+    <link>https://example.com</link>
+    <description>人を大切にする会社づくりをお手伝いします</description>
+    <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+    <language>ja</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:base_site_url>https://example.com</wp:base_site_url>
+    <wp:base_blog_url>https://example.com</wp:base_blog_url>
+
+    <!-- カテゴリ -->
+    <wp:category>
+        <wp:term_id>1</wp:term_id>
+        <wp:category_nicename><![CDATA[law-updates]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[法改正情報]]></wp:cat_name>
+    </wp:category>
+    <wp:category>
+        <wp:term_id>2</wp:term_id>
+        <wp:category_nicename><![CDATA[tips]]></wp:category_nicename>
+        <wp:category_parent><![CDATA[]]></wp:category_parent>
+        <wp:cat_name><![CDATA[お役立ち情報]]></wp:cat_name>
+    </wp:category>
+
+    <!-- サンプル記事1: 法改正情報 -->
+    <item>
+        <title>【2024年法改正】労働条件明示ルールが変わります</title>
+        <link>https://example.com/2024/12/labor-condition-disclosure-2024/</link>
+        <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>2024年4月から、労働条件の明示ルールが改正されました。事業主の皆様が押さえておくべきポイントを解説します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">改正のポイント</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1. 就業場所・業務の変更の範囲の明示</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>労働契約締結時および有期労働契約の更新時に、「就業場所・業務の変更の範囲」を明示することが義務付けられました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>対応例：</strong><br>「就業場所：本社（将来的に支店への異動の可能性あり）」<br>「業務内容：営業業務（将来的に企画業務への変更の可能性あり）」</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">2. 有期契約労働者への追加明示事項</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>有期労働契約の場合、以下の事項も明示が必要です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>更新上限の有無と内容</li>
+<li>無期転換申込機会があること</li>
+<li>無期転換後の労働条件</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">事業主に求められる対応</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list {"ordered":true} -->
+<ol class="wp-block-list">
+<li><strong>雇用契約書・労働条件通知書の見直し</strong><br>新しい明示事項を追加した書式に更新しましょう。</li>
+<li><strong>就業規則の確認</strong><br>配置転換・職種変更に関する規定を確認しておきましょう。</li>
+<li><strong>有期契約労働者の契約管理</strong><br>更新回数や通算契約期間の管理体制を整備しましょう。</li>
+</ol>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">お困りの際はご相談ください</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>雇用契約書の作成・見直しでお困りの場合は、お気軽にご相談ください。御社の状況に合わせた書式をご提案いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/">お問い合わせはこちら</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+]]></content:encoded>
+        <excerpt:encoded><![CDATA[2024年4月から労働条件の明示ルールが改正されました。就業場所・業務の変更の範囲の明示など、事業主が押さえるべきポイントを解説します。]]></excerpt:encoded>
+        <wp:post_id>101</wp:post_id>
+        <wp:post_date><![CDATA[2024-12-10 10:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2024-12-10 01:00:00]]></wp:post_date_gmt>
+        <wp:post_modified><![CDATA[2024-12-10 10:00:00]]></wp:post_modified>
+        <wp:post_modified_gmt><![CDATA[2024-12-10 01:00:00]]></wp:post_modified_gmt>
+        <wp:comment_status><![CDATA[open]]></wp:comment_status>
+        <wp:ping_status><![CDATA[open]]></wp:ping_status>
+        <wp:post_name><![CDATA[labor-condition-disclosure-2024]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <category domain="category" nicename="law-updates"><![CDATA[法改正情報]]></category>
+    </item>
+
+    <!-- サンプル記事2: お役立ち情報 -->
+    <item>
+        <title>従業員が産休・育休に入るときの手続きチェックリスト</title>
+        <link>https://example.com/2024/12/maternity-leave-checklist/</link>
+        <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>従業員から妊娠の報告を受けたとき、会社として何をすればいいのか迷われることはありませんか？今回は、産前産後休業・育児休業に関する手続きをチェックリスト形式でまとめました。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">産前休業開始前にやること</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>☐ 出産予定日の確認</li>
+<li>☐ 産前産後休業・育児休業の予定期間をヒアリング</li>
+<li>☐ 業務の引き継ぎ計画を立てる</li>
+<li>☐ 社会保険料免除の準備</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">産前産後休業中にやること</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>☐ 出産日の連絡を受ける</li>
+<li>☐ 出産手当金申請書の準備</li>
+<li>☐ 産前産後休業取得者申出書の届出（社会保険料免除）</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">育児休業中にやること</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>☐ 育児休業給付金の申請（2ヶ月ごと）</li>
+<li>☐ 育児休業等取得者申出書の届出（社会保険料免除）</li>
+<li>☐ 復職予定日の確認</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">復職時にやること</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>☐ 復職日の確定と受け入れ準備</li>
+<li>☐ 育児休業等終了届の届出</li>
+<li>☐ 養育期間標準報酬月額特例申出書（該当する場合）</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">重要な期日</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table -->
+<figure class="wp-block-table"><table><tbody><tr><th>項目</th><th>期間</th></tr><tr><td>産前休業</td><td>出産予定日の6週間前から</td></tr><tr><td>産後休業</td><td>出産日の翌日から8週間</td></tr><tr><td>育児休業</td><td>産後休業終了日の翌日から子が1歳になる前日まで</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:paragraph -->
+<p>※保育所に入れない場合などは、1歳6ヶ月・2歳まで延長可能です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">手続きは当事務所にお任せください</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>産休・育休の手続きは複雑で、期限管理も重要です。当事務所では、これらの手続きを一括して代行いたします。お気軽にご相談ください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/">お問い合わせはこちら</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+]]></content:encoded>
+        <excerpt:encoded><![CDATA[従業員が産休・育休に入るとき、会社として必要な手続きをチェックリスト形式でまとめました。]]></excerpt:encoded>
+        <wp:post_id>102</wp:post_id>
+        <wp:post_date><![CDATA[2024-12-09 10:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2024-12-09 01:00:00]]></wp:post_date_gmt>
+        <wp:post_modified><![CDATA[2024-12-09 10:00:00]]></wp:post_modified>
+        <wp:post_modified_gmt><![CDATA[2024-12-09 01:00:00]]></wp:post_modified_gmt>
+        <wp:comment_status><![CDATA[open]]></wp:comment_status>
+        <wp:ping_status><![CDATA[open]]></wp:ping_status>
+        <wp:post_name><![CDATA[maternity-leave-checklist]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <category domain="category" nicename="tips"><![CDATA[お役立ち情報]]></category>
+    </item>
+
+    <!-- サンプル記事3: お役立ち情報 -->
+    <item>
+        <title>社労士に依頼するメリットとは？こんなお悩みありませんか</title>
+        <link>https://example.com/2024/12/benefits-of-hiring-sr/</link>
+        <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
+        <dc:creator><![CDATA[admin]]></dc:creator>
+        <content:encoded><![CDATA[
+<!-- wp:paragraph -->
+<p>「社会保険労務士（社労士）に依頼するとどんなメリットがあるの？」「自分でできることにお金を払う必要はある？」そんな疑問をお持ちの経営者様も多いのではないでしょうか。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>今回は、社労士に依頼するメリットについてお伝えします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">こんなお悩みありませんか？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<li>社会保険の手続きが複雑で、ミスがないか不安</li>
+<li>給与計算に毎月時間を取られている</li>
+<li>労働基準監督署から調査の連絡が来た</li>
+<li>従業員とのトラブルを未然に防ぎたい</li>
+<li>就業規則を作りたいが、どうすればいいかわからない</li>
+<li>使える助成金があるか知りたい</li>
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>これらに一つでも当てはまるなら、社労士への相談をおすすめします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">社労士に依頼する5つのメリット</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1. 本業に集中できる</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>煩雑な事務作業から解放され、経営者様は本来の業務に専念できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">2. 手続きミスを防げる</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>専門家が正確に処理するため、届出漏れや記載ミスを防止できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">3. 法改正に対応できる</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>労働法は頻繁に改正されます。最新情報をキャッチアップし、適切な対応をご提案します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">4. トラブルを未然に防げる</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>就業規則の整備や日常的な労務相談により、労使トラブルのリスクを軽減します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">5. 助成金を活用できる</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>御社の状況に合った助成金を提案し、申請をサポートします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":2} -->
+<h2 class="wp-block-heading">まずは無料相談から</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>当事務所では初回相談を無料で承っております。「こんなこと相談していいのかな？」という小さなことでも、お気軽にお問い合わせください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons -->
+<div class="wp-block-buttons">
+<!-- wp:button -->
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/contact/">無料相談を申し込む</a></div>
+<!-- /wp:button -->
+</div>
+<!-- /wp:buttons -->
+]]></content:encoded>
+        <excerpt:encoded><![CDATA[社会保険労務士に依頼するメリットについて解説します。手続きの負担軽減、ミス防止、トラブル予防など、5つのメリットをご紹介。]]></excerpt:encoded>
+        <wp:post_id>103</wp:post_id>
+        <wp:post_date><![CDATA[2024-12-08 10:00:00]]></wp:post_date>
+        <wp:post_date_gmt><![CDATA[2024-12-08 01:00:00]]></wp:post_date_gmt>
+        <wp:post_modified><![CDATA[2024-12-08 10:00:00]]></wp:post_modified>
+        <wp:post_modified_gmt><![CDATA[2024-12-08 01:00:00]]></wp:post_modified_gmt>
+        <wp:comment_status><![CDATA[open]]></wp:comment_status>
+        <wp:ping_status><![CDATA[open]]></wp:ping_status>
+        <wp:post_name><![CDATA[benefits-of-hiring-sr]]></wp:post_name>
+        <wp:status><![CDATA[publish]]></wp:status>
+        <wp:post_parent>0</wp:post_parent>
+        <wp:menu_order>0</wp:menu_order>
+        <wp:post_type><![CDATA[post]]></wp:post_type>
+        <wp:post_password><![CDATA[]]></wp:post_password>
+        <wp:is_sticky>0</wp:is_sticky>
+        <category domain="category" nicename="tips"><![CDATA[お役立ち情報]]></category>
+    </item>
+
+</channel>
+</rss>
