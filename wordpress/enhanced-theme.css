@@ -1,6 +1,6 @@
 /* ============================================
    Miyabi SR - WordPress Theme CSS
-   Version: 7.0
+   Version: 8.0
    
    ■ XMLで管理（Gutenbergブロック）:
      - font-size, color, padding, margin
@@ -12,9 +12,31 @@
      - transition アニメーション
      - @import フォント
      - box-shadow（Gutenberg非対応）
+     - スクロールアニメーション
    
    詳細: specification.md §10 参照
    ============================================ */
+
+/* ============================================
+   CSS VARIABLES
+   ============================================ */
+:root {
+    --color-primary: #1a365d;
+    --color-accent: #c9a227;
+    --color-accent-light: #dbb94a;
+    --color-text: #2d3748;
+    --color-text-muted: #718096;
+    --color-bg-light: #faf9f7;
+    --color-white: #ffffff;
+    --color-cta: #5a7a54;
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
+    --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.12);
+    --shadow-gold: 0 6px 25px rgba(201, 162, 39, 0.4);
+    --transition-fast: 0.2s ease;
+    --transition-normal: 0.3s ease;
+    --transition-slow: 0.5s ease;
+}
 
 /* ============================================
    FONTS
@@ -26,6 +48,8 @@
    ============================================ */
 body {
     font-family: 'Noto Sans JP', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
 }
 
 h1,
@@ -37,29 +61,50 @@ h6 {
     font-family: 'Noto Serif JP', serif;
 }
 
+/* Smooth scroll */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Selection color */
+::selection {
+    background: var(--color-accent);
+    color: var(--color-white);
+}
+
 /* ============================================
    BUTTON HOVER EFFECTS
    ============================================ */
 .wp-block-button__link {
-    transition: all 0.3s ease;
+    transition: all var(--transition-normal);
+    position: relative;
+    overflow: hidden;
 }
 
 /* プライマリボタン hover */
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:hover {
     transform: translateY(-3px);
-    box-shadow: 0 6px 25px rgba(201, 162, 39, 0.5);
+    box-shadow: var(--shadow-gold);
+    filter: brightness(1.05);
 }
 
 /* アウトラインボタン（白背景上）hover */
 .wp-block-button.is-style-outline .wp-block-button__link:hover {
-    background: #1a365d;
-    color: #ffffff;
-    border-color: #1a365d;
+    background: var(--color-primary);
+    color: var(--color-white);
+    border-color: var(--color-primary);
+    transform: translateY(-2px);
 }
 
 /* アウトラインボタン（カバーブロック内）hover */
 .wp-block-cover .wp-block-button.is-style-outline .wp-block-button__link:hover {
     background: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(4px);
+}
+
+/* ボタンクリック時 */
+.wp-block-button__link:active {
+    transform: translateY(0);
 }
 
 /* ============================================
@@ -67,48 +112,168 @@ h6 {
    ============================================ */
 .wp-block-column,
 .wp-block-group {
-    transition: all 0.3s ease;
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
 }
 
 /* カードホバー */
-.wp-block-column.has-background:hover,
-.wp-block-group.has-background:hover {
+.wp-block-column.has-background:hover {
     transform: translateY(-8px);
-    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.12);
+    box-shadow: var(--shadow-lg);
+}
+
+/* サービスカード特別スタイル */
+.wp-block-columns.alignwide .wp-block-column.has-background {
+    box-shadow: var(--shadow-sm);
+}
+
+.wp-block-columns.alignwide .wp-block-column.has-background:hover {
+    box-shadow: var(--shadow-lg);
 }
 
 /* ============================================
-   FORM FOCUS STATES
+   IMAGE STYLES
+   ============================================ */
+.wp-block-image img {
+    transition: transform var(--transition-normal);
+}
+
+.wp-block-column:hover .wp-block-image img {
+    transform: scale(1.03);
+}
+
+/* 画像のオーバーフロー対応 */
+.wp-block-image.has-custom-border {
+    overflow: hidden;
+}
+
+/* ============================================
+   HERO SECTION
+   ============================================ */
+.wp-block-cover {
+    position: relative;
+}
+
+/* ヒーローテキストのアニメーション */
+.wp-block-cover .wp-block-heading,
+.wp-block-cover .wp-block-paragraph {
+    animation: fadeInUp 0.8s ease-out;
+}
+
+.wp-block-cover .wp-block-buttons {
+    animation: fadeInUp 0.8s ease-out 0.2s backwards;
+}
+
+@keyframes fadeInUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+/* ============================================
+   SECTION LABELS (FEATURES, SERVICES)
+   ============================================ */
+.has-text-align-center.has-text-color[style*="letter-spacing"] {
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+/* ============================================
+   TRUST BADGES
+   ============================================ */
+.wp-block-group[style*="padding-top:2rem"][style*="padding-bottom:2rem"] .wp-block-group {
+    transition: transform var(--transition-fast);
+}
+
+.wp-block-group[style*="padding-top:2rem"][style*="padding-bottom:2rem"] .wp-block-group:hover {
+    transform: translateY(-2px);
+}
+
+/* ============================================
+   CTA SECTION
+   ============================================ */
+.wp-block-group.has-background[style*="background-color:#5a7a54"] {
+    box-shadow: var(--shadow-md);
+}
+
+/* ============================================
+   FORM STYLES (Contact Form 7)
    ============================================ */
 .wpcf7-form-control {
-    transition: all 0.3s ease;
+    transition: all var(--transition-normal);
+    border: 2px solid #e2e8f0;
+    border-radius: 8px;
+    padding: 12px 16px;
 }
 
 .wpcf7-form-control:focus {
-    border-color: #1a365d;
+    border-color: var(--color-primary);
     outline: none;
+    box-shadow: 0 0 0 3px rgba(26, 54, 93, 0.1);
+}
+
+.wpcf7-form-control::placeholder {
+    color: #a0aec0;
+}
+
+/* 送信ボタン */
+.wpcf7-submit {
+    background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
+    color: var(--color-white);
+    border: none;
+    padding: 1rem 2rem;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: 500;
+    transition: all var(--transition-normal);
+}
+
+.wpcf7-submit:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-gold);
 }
 
 /* ============================================
-   NAV LINK HOVER
+   NAVIGATION
    ============================================ */
 .global-nav a {
-    transition: color 0.3s ease;
+    transition: color var(--transition-normal);
+    position: relative;
 }
 
 .global-nav a:hover {
-    color: #c9a227;
+    color: var(--color-accent);
+}
+
+.global-nav a::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: var(--color-accent);
+    transition: width var(--transition-normal);
+}
+
+.global-nav a:hover::after {
+    width: 100%;
 }
 
 /* ============================================
-   FOOTER LINK HOVER
+   FOOTER
    ============================================ */
 .site-footer a {
-    transition: color 0.3s ease;
+    transition: color var(--transition-normal);
 }
 
 .site-footer a:hover {
-    color: white;
+    color: var(--color-white);
 }
 
 /* ============================================
@@ -119,4 +284,65 @@ h6 {
 h2.wp-block-heading {
     border-top: none !important;
     padding-top: 0 !important;
+}
+
+/* Lightningデフォルトマージン調整 */
+.entry-content>*:first-child {
+    margin-top: 0;
+}
+
+/* ============================================
+   SCROLL ANIMATIONS (Optional - requires JS)
+   ============================================ */
+.fade-in-up {
+    opacity: 0;
+    transform: translateY(30px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+}
+
+.fade-in-up.is-visible {
+    opacity: 1;
+    transform: translateY(0);
+}
+
+/* ============================================
+   RESPONSIVE ADJUSTMENTS
+   ============================================ */
+@media (max-width: 782px) {
+
+    /* モバイルでホバーエフェクト軽減 */
+    .wp-block-column.has-background:hover {
+        transform: translateY(-4px);
+    }
+
+    /* モバイルでボタンを全幅に */
+    .wp-block-button__link {
+        width: 100%;
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+
+    /* 小型デバイスでアニメーション無効化 */
+    .wp-block-cover .wp-block-heading,
+    .wp-block-cover .wp-block-paragraph,
+    .wp-block-cover .wp-block-buttons {
+        animation: none;
+    }
+}
+
+/* ============================================
+   UTILITY CLASSES
+   ============================================ */
+.text-shadow {
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+}
+
+.hover-lift {
+    transition: transform var(--transition-normal);
+}
+
+.hover-lift:hover {
+    transform: translateY(-4px);
 }
