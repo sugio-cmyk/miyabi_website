@@ -20,7 +20,7 @@
 <div class="wp-block-group alignwide" style="padding-top:0;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":55,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
-<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-insurance.jpg" alt="社会保険・労働保険手続き" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="/wp-content/uploads/2025/12/service-insurance.jpg" alt="社会保険・労働保険手続き" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
@@ -78,7 +78,7 @@
 
 <!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":56,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
-<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-payroll.jpg" alt="給与計算代行" class="wp-image-56" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="/wp-content/uploads/2025/12/service-payroll.jpg" alt="給与計算代行" class="wp-image-56" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
@@ -136,7 +136,7 @@
 
 <!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":54,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
-<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-consulting.jpg" alt="人事労務支援" class="wp-image-54" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="/wp-content/uploads/2025/12/service-consulting.jpg" alt="人事労務支援" class="wp-image-54" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
