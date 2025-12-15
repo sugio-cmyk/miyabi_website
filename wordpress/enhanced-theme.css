@@ -1,6 +1,11 @@
 /* ============================================
    Miyabi SR - WordPress Theme CSS
-   Version: 8.0
+   Version: 9.0 (Refactored)
+   
+   ■ 設計方針:
+     - 1400px基準のレイアウト
+     - モダンなカードデザイン
+     - アクセシブルなホバーエフェクト
    
    ■ XMLで管理（Gutenbergブロック）:
      - font-size, color, padding, margin
@@ -10,42 +15,46 @@
    ■ CSSで管理（本ファイル）:
      - :hover エフェクト
      - transition アニメーション
-     - @import フォント
-     - box-shadow（Gutenberg非対応）
-     - スクロールアニメーション
-   
-   詳細: specification.md §10 参照
+     - box-shadow
+     - レイアウト制御
    ============================================ */
 
 /* ============================================
-   CSS VARIABLES
+   1. CSS VARIABLES
    ============================================ */
 :root {
+    /* カラーパレット */
     --color-primary: #1a365d;
     --color-accent: #c9a227;
     --color-accent-light: #dbb94a;
     --color-text: #2d3748;
     --color-text-muted: #718096;
     --color-bg-light: #faf9f7;
+    --color-bg-feature: #f0f4f8;
     --color-white: #ffffff;
-    --color-cta: #5a7a54;
-    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
-    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.1);
-    --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.12);
-    --shadow-gold: 0 6px 25px rgba(201, 162, 39, 0.4);
+    --color-cta: #4a6a44;
+    --color-border: #cbd5e0;
+
+    /* シャドウ */
+    --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.06);
+    --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.08);
+    --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.12);
+    --shadow-gold: 0 6px 20px rgba(201, 162, 39, 0.35);
+
+    /* トランジション */
     --transition-fast: 0.2s ease;
     --transition-normal: 0.3s ease;
-    --transition-slow: 0.5s ease;
+
+    /* レイアウト */
+    --card-padding: 1.75rem;
+    --card-gap: 2rem;
 }
 
 /* ============================================
-   FONTS
+   2. FONTS & BASE STYLES
    ============================================ */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;600;700&display=swap');
 
-/* ============================================
-   BASE STYLES
-   ============================================ */
 body {
     font-family: 'Noto Sans JP', sans-serif;
     -webkit-font-smoothing: antialiased;
@@ -61,19 +70,76 @@ h6 {
     font-family: 'Noto Serif JP', serif;
 }
 
-/* Smooth scroll */
 html {
     scroll-behavior: smooth;
 }
 
-/* Selection color */
 ::selection {
     background: var(--color-accent);
     color: var(--color-white);
 }
 
 /* ============================================
-   BUTTON HOVER EFFECTS
+   3. LAYOUT CONTROL
+   ============================================ */
+.wp-block-columns {
+    max-width: 100%;
+    box-sizing: border-box;
+    gap: var(--card-gap);
+}
+
+/* alignwide内のカラムを親幅いっぱいに */
+.alignwide .wp-block-columns,
+.alignwide>.wp-block-columns {
+    max-width: 100%;
+    width: 100%;
+}
+
+/* ============================================
+   4. CARD STYLES
+   ============================================ */
+.wp-block-column,
+.wp-block-group {
+    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
+}
+
+/* カードの基本スタイル */
+.wp-block-column.has-background {
+    padding: var(--card-padding);
+    box-shadow: var(--shadow-sm);
+    display: flex;
+    flex-direction: column;
+}
+
+/* カード内の要素配置を最適化 */
+.wp-block-columns.alignwide {
+    align-items: stretch;
+}
+
+.wp-block-column.has-background>*:last-child {
+    margin-top: auto;
+}
+
+/* カードホバー */
+.wp-block-column.has-background:hover {
+    transform: translateY(-6px);
+    box-shadow: var(--shadow-lg);
+}
+
+/* アイコン背景円（選ばれる理由セクション） */
+.wp-block-column.has-background .has-huge-font-size {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 72px;
+    height: 72px;
+    background: rgba(201, 162, 39, 0.1);
+    border-radius: 50%;
+    margin: 0 auto 1rem;
+}
+
+/* ============================================
+   5. BUTTON STYLES
    ============================================ */
 .wp-block-button__link {
     transition: all var(--transition-normal);
@@ -83,12 +149,12 @@ html {
 
 /* プライマリボタン hover */
 .wp-block-button:not(.is-style-outline) .wp-block-button__link:hover {
-    transform: translateY(-3px);
+    transform: translateY(-2px);
     box-shadow: var(--shadow-gold);
     filter: brightness(1.05);
 }
 
-/* アウトラインボタン（白背景上）hover */
+/* アウトラインボタン hover */
 .wp-block-button.is-style-outline .wp-block-button__link:hover {
     background: var(--color-primary);
     color: var(--color-white);
@@ -96,9 +162,9 @@ html {
     transform: translateY(-2px);
 }
 
-/* アウトラインボタン（カバーブロック内）hover */
+/* カバーブロック内のアウトラインボタン */
 .wp-block-cover .wp-block-button.is-style-outline .wp-block-button__link:hover {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgba(255, 255, 255, 0.15);
     backdrop-filter: blur(4px);
 }
 
@@ -108,52 +174,23 @@ html {
 }
 
 /* ============================================
-   CARD STYLES
-   ============================================ */
-.wp-block-column,
-.wp-block-group {
-    transition: transform var(--transition-normal), box-shadow var(--transition-normal);
-}
-
-/* カードホバー */
-.wp-block-column.has-background:hover {
-    transform: translateY(-8px);
-    box-shadow: var(--shadow-lg);
-}
-
-/* サービスカード特別スタイル */
-.wp-block-columns.alignwide .wp-block-column.has-background {
-    box-shadow: var(--shadow-sm);
-}
-
-.wp-block-columns.alignwide .wp-block-column.has-background:hover {
-    box-shadow: var(--shadow-lg);
-}
-
-/* ============================================
-   IMAGE STYLES
+   6. IMAGE STYLES
    ============================================ */
 .wp-block-image img {
     transition: transform var(--transition-normal);
 }
 
 .wp-block-column:hover .wp-block-image img {
-    transform: scale(1.03);
+    transform: scale(1.02);
 }
 
-/* 画像のオーバーフロー対応 */
 .wp-block-image.has-custom-border {
     overflow: hidden;
 }
 
 /* ============================================
-   HERO SECTION
+   7. HERO SECTION
    ============================================ */
-.wp-block-cover {
-    position: relative;
-}
-
-/* ヒーローテキストのアニメーション */
 .wp-block-cover .wp-block-heading,
 .wp-block-cover .wp-block-paragraph {
     animation: fadeInUp 0.8s ease-out;
@@ -176,15 +213,32 @@ html {
 }
 
 /* ============================================
-   SECTION LABELS (FEATURES, SERVICES)
+   8. SECTION HEADINGS
    ============================================ */
+/* セクションラベル（FEATURES, SERVICES等） */
 .has-text-align-center.has-text-color[style*="letter-spacing"] {
     text-transform: uppercase;
     font-weight: 500;
 }
 
+/* セクション見出しのゴールドアンダーライン */
+h2.wp-block-heading.has-text-align-center {
+    position: relative;
+    padding-bottom: 1rem;
+}
+
+h2.wp-block-heading.has-text-align-center::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 3px;
+    background: linear-gradient(90deg, var(--color-accent), var(--color-accent-light));
+    margin: 0.75rem auto 0;
+    border-radius: 2px;
+}
+
 /* ============================================
-   TRUST BADGES
+   9. TRUST BADGES
    ============================================ */
 .wp-block-group[style*="padding-top:2rem"][style*="padding-bottom:2rem"] .wp-block-group {
     transition: transform var(--transition-fast);
@@ -195,14 +249,15 @@ html {
 }
 
 /* ============================================
-   CTA SECTION
+   10. CTA SECTION
    ============================================ */
-.wp-block-group.has-background[style*="background-color:#5a7a54"] {
+.wp-block-group.has-background[style*="background-color:#5a7a54"],
+.wp-block-group.has-background[style*="background-color:#4a6a44"] {
     box-shadow: var(--shadow-md);
 }
 
 /* ============================================
-   FORM STYLES (Contact Form 7)
+   11. FORM STYLES (Contact Form 7)
    ============================================ */
 .wpcf7-form-control {
     transition: all var(--transition-normal);
@@ -221,7 +276,6 @@ html {
     color: #a0aec0;
 }
 
-/* 送信ボタン */
 .wpcf7-submit {
     background: linear-gradient(135deg, var(--color-accent) 0%, var(--color-accent-light) 100%);
     color: var(--color-white);
@@ -239,7 +293,7 @@ html {
 }
 
 /* ============================================
-   NAVIGATION
+   12. NAVIGATION
    ============================================ */
 .global-nav a {
     transition: color var(--transition-normal);
@@ -266,7 +320,7 @@ html {
 }
 
 /* ============================================
-   FOOTER
+   13. FOOTER
    ============================================ */
 .site-footer a {
     transition: color var(--transition-normal);
@@ -277,45 +331,37 @@ html {
 }
 
 /* ============================================
-   LIGHTNING THEME OVERRIDES
+   14. THEME OVERRIDES
    ============================================ */
-/* セクション見出しの青い線を無効化 */
+/* Lightningテーマのデフォルトスタイルを調整 */
 .wp-block-heading,
 h2.wp-block-heading {
-    border-top: none !important;
-    padding-top: 0 !important;
+    border-top: none;
+    padding-top: 0;
 }
 
-/* Lightningデフォルトマージン調整 */
 .entry-content>*:first-child {
     margin-top: 0;
 }
 
-/* ============================================
-   SCROLL ANIMATIONS (Optional - requires JS)
-   ============================================ */
-.fade-in-up {
-    opacity: 0;
-    transform: translateY(30px);
-    transition: opacity 0.6s ease, transform 0.6s ease;
-}
-
-.fade-in-up.is-visible {
-    opacity: 1;
-    transform: translateY(0);
+/* 固定ページのデフォルトタイトルを非表示 */
+.page .entry-header {
+    display: none;
 }
 
 /* ============================================
-   RESPONSIVE ADJUSTMENTS
+   15. RESPONSIVE
    ============================================ */
 @media (max-width: 782px) {
+    :root {
+        --card-padding: 1.5rem;
+        --card-gap: 1.5rem;
+    }
 
-    /* モバイルでホバーエフェクト軽減 */
     .wp-block-column.has-background:hover {
         transform: translateY(-4px);
     }
 
-    /* モバイルでボタンを全幅に */
     .wp-block-button__link {
         width: 100%;
         text-align: center;
@@ -323,6 +369,10 @@ h2.wp-block-heading {
 }
 
 @media (max-width: 480px) {
+    :root {
+        --card-padding: 1.25rem;
+        --card-gap: 1rem;
+    }
 
     /* 小型デバイスでアニメーション無効化 */
     .wp-block-cover .wp-block-heading,
@@ -333,7 +383,7 @@ h2.wp-block-heading {
 }
 
 /* ============================================
-   UTILITY CLASSES
+   16. UTILITY CLASSES
    ============================================ */
 .text-shadow {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -345,13 +395,4 @@ h2.wp-block-heading {
 
 .hover-lift:hover {
     transform: translateY(-4px);
-}
-
-/* ============================================
-   PAGE TITLE OVERRIDE
-   固定ページのデフォルトタイトルを非表示
-   （コンテンツ内にカスタムH1があるため）
-   ============================================ */
-.page .entry-header {
-    display: none;
 }

@@ -1,15 +1,23 @@
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
-<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">よくある質問</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#718096">お客様からよくいただくご質問をまとめました。</p>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem","left":"2rem","right":"2rem"}},"color":{"background":"#1a365d"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#1a365d;padding-top:4rem;padding-right:2rem;padding-bottom:4rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">FAQ</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.5rem"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:2.5rem">よくある質問</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"rgba(255,255,255,0.8)"}}} -->
+<p class="has-text-align-center has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.1rem">お客様からよくいただくご質問をまとめました</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:0;padding-right:2rem;padding-bottom:5rem;padding-left:2rem">
 
 <!-- wp:heading {"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
 <h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">社会保険労務士全般</h2>

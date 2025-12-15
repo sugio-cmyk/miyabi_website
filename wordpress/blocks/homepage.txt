@@ -1,5 +1,5 @@
-<!-- wp:cover {"url":"http://miyabi-srjp.local/wp-content/uploads/2025/12/hero-bg.jpg","id":52,"dimRatio":90,"customOverlayColor":"#1a365d","isUserOverlayColor":true,"minHeight":600,"minHeightUnit":"px","align":"full","style":{"spacing":{"padding":{"top":"6rem","bottom":"6rem"}}}} -->
-<div class="wp-block-cover alignfull" style="padding-top:6rem;padding-bottom:6rem;min-height:600px"><img class="wp-block-cover__image-background wp-image-52" alt="" src="http://miyabi-srjp.local/wp-content/uploads/2025/12/hero-bg.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-90 has-background-dim" style="background-color:#1a365d"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","style":{"border":{"radius":"50px","width":"1px","style":"solid","color":"rgba(255,255,255,0.2)"},"spacing":{"padding":{"top":"0.5rem","right":"1.5rem","bottom":"0.5rem","left":"1.5rem"}},"typography":{"fontSize":"0.9rem"},"color":{"text":"#ffffff","background":"rgba(255,255,255,0.15)"}}} -->
+<!-- wp:cover {"url":"http://miyabi-srjp.local/wp-content/uploads/2025/12/hero-bg.jpg","id":52,"dimRatio":80,"customOverlayColor":"#1a365d","isUserOverlayColor":true,"minHeight":600,"minHeightUnit":"px","align":"full","style":{"spacing":{"padding":{"top":"6rem","bottom":"6rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:6rem;padding-bottom:6rem;min-height:600px"><img class="wp-block-cover__image-background wp-image-52" alt="" src="http://miyabi-srjp.local/wp-content/uploads/2025/12/hero-bg.jpg" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-background-dim-80 has-background-dim" style="background-color:#1a365d"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","style":{"border":{"radius":"50px","width":"1px","style":"solid","color":"rgba(255,255,255,0.2)"},"spacing":{"padding":{"top":"0.5rem","right":"1.5rem","bottom":"0.5rem","left":"1.5rem"}},"typography":{"fontSize":"0.9rem"},"color":{"text":"#ffffff","background":"rgba(255,255,255,0.15)"}}} -->
 <p class="has-text-align-center has-border-color has-text-color has-background" style="border-color:rgba(255,255,255,0.2);border-style:solid;border-width:1px;border-radius:50px;color:#ffffff;background-color:rgba(255,255,255,0.15);padding-top:0.5rem;padding-right:1.5rem;padding-bottom:0.5rem;padding-left:1.5rem;font-size:0.9rem">香川県坂出市の社会保険労務士</p>
 <!-- /wp:paragraph -->
 
@@ -64,8 +64,52 @@
 <!-- /wp:group --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem","left":"2rem","right":"2rem"}},"color":{"background":"#faf9f7"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="background-color:#faf9f7;padding-top:4rem;padding-right:2rem;padding-bottom:4rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">TROUBLES</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">こんなお悩みありませんか？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:paragraph {"style":{"color":{"text":"#e53e3e"},"typography":{"fontSize":"1rem"},"spacing":{"margin":{"bottom":"0.75rem"}}}} -->
+<p class="has-text-color" style="color:#e53e3e;margin-bottom:0.75rem;font-size:1rem">✗ 社員の入退社手続きが煩雑で時間がかかる</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#e53e3e"},"typography":{"fontSize":"1rem"},"spacing":{"margin":{"bottom":"0.75rem"}}}} -->
+<p class="has-text-color" style="color:#e53e3e;margin-bottom:0.75rem;font-size:1rem">✗ 給与計算を毎月ミスなくできるか不安</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#e53e3e"},"typography":{"fontSize":"1rem"},"spacing":{"margin":{"bottom":"0.75rem"}}}} -->
+<p class="has-text-color" style="color:#e53e3e;margin-bottom:0.75rem;font-size:1rem">✗ 就業規則がないけれど、このままで大丈夫？</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#e53e3e"},"typography":{"fontSize":"1rem"},"spacing":{"margin":{"bottom":"0.75rem"}}}} -->
+<p class="has-text-color" style="color:#e53e3e;margin-bottom:0.75rem;font-size:1rem">✗ 助成金があると聞いたが、何が使えるかわからない</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#e53e3e"},"typography":{"fontSize":"1rem"}}} -->
+<p class="has-text-color" style="color:#e53e3e;font-size:1rem">✗ 労働基準監督署の調査が来たらどうしよう...</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"1.1rem","fontStyle":"normal","fontWeight":"600"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:1.1rem;font-style:normal;font-weight:600">→ みやび社会保険労務士事務所が、これらのお悩みを解決します。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}},"color":{"background":"#f0f4f8"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide has-background" style="background-color:#f0f4f8;padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
 <p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">FEATURES</p>
 <!-- /wp:paragraph -->
 
@@ -122,8 +166,8 @@
 <!-- /wp:columns --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
 <p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">SERVICES</p>
 <!-- /wp:paragraph -->
 
@@ -138,11 +182,11 @@
 <!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":55,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
-<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-insurance.jpg" alt="社会保険・労働保険手続き" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-insurance.jpg" alt="各種手続き代行" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
-<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d">社会保険・労働保険手続き</h3>
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d">各種手続き代行</h3>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->

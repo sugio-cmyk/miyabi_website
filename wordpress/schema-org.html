@@ -1,0 +1,155 @@
+<!-- 
+  Schema.org 構造化データ（JSON-LD）
+  
+  ■ 設置方法:
+  WordPressダッシュボード > 外観 > カスタマイズ > 追加CSS の横にある
+  「追加JavaScript」または「ヘッダースクリプト」セクションに貼り付け
+  
+  または、Code Snippets プラグインを使用してヘッダーに追加
+  
+  ■ LLMO効果:
+  - AIがこの事務所の情報を正確に理解・引用できるようになる
+  - ローカル検索でリッチスニペット表示
+-->
+
+<!-- 1. LocalBusiness スキーマ（全ページ共通） -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": "https://miyabi-sr.jp/#organization",
+  "name": "みやび社会保険労務士事務所",
+  "alternateName": "Miyabi SR Office",
+  "description": "香川県坂出市の社会保険労務士事務所。社会保険・労働保険手続き、給与計算代行、就業規則作成、助成金申請をサポート。初回相談無料。",
+  "url": "https://miyabi-sr.jp",
+  "telephone": "0877-XX-XXXX",
+  "email": "info@miyabi-sr.jp",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "住所をここに入力",
+    "addressLocality": "坂出市",
+    "addressRegion": "香川県",
+    "postalCode": "762-XXXX",
+    "addressCountry": "JP"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": "34.XXXX",
+    "longitude": "133.XXXX"
+  },
+  "areaServed": {
+    "@type": "AdministrativeArea",
+    "name": "香川県"
+  },
+  "priceRange": "$$",
+  "openingHours": "Mo-Fr 09:00-18:00",
+  "sameAs": [],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "サービス一覧",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "社会保険・労働保険手続き代行",
+          "description": "入社・退社に伴う届出から保険料の算定まで代行"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "給与計算代行",
+          "description": "毎月の給与計算と給与明細書の作成"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "人事労務支援",
+          "description": "就業規則の作成、助成金申請、労務相談"
+        }
+      }
+    ]
+  }
+}
+</script>
+
+<!-- 2. FAQPage スキーマ（FAQページのみに設置） -->
+<!-- 
+  以下のコードはFAQページのみに設置してください。
+  WordPressの場合: FAQページの編集画面 > カスタムHTMLブロックを追加
+-->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "社会保険労務士に依頼するメリットは何ですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "届出や申請のミスを防ぎ、経営者様が本業に専念できる時間を確保できます。また、法改正にも対応いたしますので、知らないうちに法令違反になっていたというリスクを避けることができます。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "どのような企業規模に対応していますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "従業員1名の事業所様から対応しております。特に中小企業・小規模事業者様のサポートを得意としております。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "香川県外でも対応可能ですか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "オンラインでのやり取りが可能であれば、香川県外の企業様にも対応いたします。まずはお気軽にご相談ください。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "相談だけでも料金はかかりますか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "初回のご相談は無料です。現在お困りのことや今後のご不安についてお聞かせください。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "就業規則は必ず作成しなければいけませんか？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "常時10人以上の労働者を雇用する事業場では、就業規則を作成し労働基準監督署へ届け出ることが義務付けられています。10人未満でも、ルールを明確にしておくことでトラブル防止につながります。"
+      }
+    }
+  ]
+}
+</script>
+
+<!-- 3. BreadcrumbList スキーマ（ナビゲーション用）-->
+<!-- 各ページで適切なパンくずリストに変更してください -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "ホーム",
+      "item": "https://miyabi-sr.jp/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "サービス",
+      "item": "https://miyabi-sr.jp/services/"
+    }
+  ]
+}
+</script>

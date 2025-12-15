@@ -1,17 +1,23 @@
-<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
-<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">サービス</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#718096;font-size:1.1rem">みやび社会保険労務士事務所では、中小企業様の人事労務に関する業務を幅広くサポートいたします。</p>
+<!-- wp:group {"align":"full","style":{"spacing":{"padding":{"top":"4rem","bottom":"4rem","left":"2rem","right":"2rem"}},"color":{"background":"#1a365d"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull has-background" style="background-color:#1a365d;padding-top:4rem;padding-right:2rem;padding-bottom:4rem;padding-left:2rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">SERVICES</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:spacer {"height":"40px"} -->
-<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.5rem"},"color":{"text":"#ffffff"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff;font-size:2.5rem">サービス</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"rgba(255,255,255,0.8)"}}} -->
+<p class="has-text-align-center has-text-color" style="color:rgba(255,255,255,0.8);font-size:1.1rem">みやび社会保険労務士事務所では、中小企業様の人事労務に関する業務を幅広くサポートいたします。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"60px"} -->
+<div style="height:60px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
-<!-- wp:columns {"align":"wide"} -->
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"0","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignwide" style="padding-top:0;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:columns {"align":"wide"} -->
 <div class="wp-block-columns alignwide"><!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
 <div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":55,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
 <figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-insurance.jpg" alt="社会保険・労働保険手続き" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
@@ -24,6 +30,28 @@
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
 <p class="has-text-color" style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な社会保険・労働保険業務を正確かつ丁寧に代行いたします。担当者の負担を軽減し、安心して本業に集中できる体制づくりを支援いたします。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#c9a227;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">こんな方におすすめ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.9rem"}}} -->
+<ul class="has-text-color" style="color:#718096;font-size:0.9rem"><!-- wp:list-item -->
+<li>初めて従業員を雇用する方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>手続きの煩雑さから解放されたい方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>届出漏れやミスを防ぎたい方</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">対応業務</h4>
+<!-- /wp:heading -->
 
 <!-- wp:list {"className":"wp-block-list"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
@@ -61,6 +89,28 @@
 <p class="has-text-color" style="color:#718096">毎月の給与計算を正確かつ丁寧に行い、給与明細書の作成まで一貫して対応いたします。締切に追われる不安を減らし、経営者様とご担当者様の業務負担を軽減いたします。</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#c9a227;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">こんな方におすすめ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.9rem"}}} -->
+<ul class="has-text-color" style="color:#718096;font-size:0.9rem"><!-- wp:list-item -->
+<li>毎月の給与計算に時間を取られている方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>計算ミスによるトラブルを防ぎたい方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>担当者の退職で困っている方</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">対応業務</h4>
+<!-- /wp:heading -->
+
 <!-- wp:list {"className":"wp-block-list"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
 <li>月例給与計算</li>
@@ -96,6 +146,28 @@
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
 <p class="has-text-color" style="color:#718096">働きやすい職場環境づくりを幅広くサポートいたします。就業規則の整備や日々の労務相談をはじめ、助成金申請の支援、労働基準監督署・年金事務所の調査対応まで、一貫して対応いたします。</p>
 <!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#c9a227;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">こんな方におすすめ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:list {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.9rem"}}} -->
+<ul class="has-text-color" style="color:#718096;font-size:0.9rem"><!-- wp:list-item -->
+<li>就業規則を新たに作成したい方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>助成金を活用したい方</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>労務トラブルを未然に防ぎたい方</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":4,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"0.95rem"},"spacing":{"margin":{"top":"1.5rem","bottom":"0.5rem"}}}} -->
+<h4 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:0.95rem;margin-top:1.5rem;margin-bottom:0.5rem">対応業務</h4>
+<!-- /wp:heading -->
 
 <!-- wp:list {"className":"wp-block-list"} -->
 <ul class="wp-block-list"><!-- wp:list-item -->
