@@ -346,3 +346,12 @@ h2.wp-block-heading {
 .hover-lift:hover {
     transform: translateY(-4px);
 }
+
+/* ============================================
+   PAGE TITLE OVERRIDE
+   固定ページのデフォルトタイトルを非表示
+   （コンテンツ内にカスタムH1があるため）
+   ============================================ */
+.page .entry-header {
+    display: none;
+}

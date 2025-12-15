@@ -1,0 +1,189 @@
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">プライバシーポリシー</h1>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">みやび社会保険労務士事務所（以下「当事務所」）は、お客様の個人情報の保護を重要な責務と考え、以下のプライバシーポリシーを定め、これを遵守いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"32px"} -->
+<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">1. 個人情報の定義</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">本プライバシーポリシーにおいて「個人情報」とは、生存する個人に関する情報であって、氏名、生年月日、住所、電話番号、メールアドレスその他の記述により特定の個人を識別できるものをいいます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">2. 個人情報の収集</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当事務所は、以下の場合に個人情報を収集することがあります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>お問い合わせフォームからのご連絡</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>業務のご依頼・ご契約</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>セミナー・相談会へのお申し込み</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">3. 個人情報の利用目的</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当事務所は、収集した個人情報を以下の目的で利用いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>お問い合わせへの回答</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>ご依頼いただいた業務の遂行</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>当事務所からのお知らせ・情報提供</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>サービス向上のための分析</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">4. 個人情報の第三者提供</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当事務所は、以下の場合を除き、お客様の個人情報を第三者に提供いたしません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>お客様の同意がある場合</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>法令に基づく場合</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>業務遂行上必要な範囲で委託先に提供する場合</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">5. 個人情報の管理</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当事務所は、個人情報の漏洩、滅失、毀損を防止するため、適切な安全管理措置を講じます。また、個人情報を取り扱う従業者に対し、必要な監督を行います。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">6. Cookie（クッキー）について</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当ウェブサイトでは、サービス向上のためCookieを使用することがあります。Cookieの使用を希望されない場合は、ブラウザの設定で無効にすることができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">7. アクセス解析について</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当ウェブサイトでは、Googleアナリティクスを使用してアクセス情報を収集しています。このデータは匿名で収集されており、個人を特定するものではありません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">8. 個人情報の開示・訂正・削除</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">お客様ご自身の個人情報について、開示・訂正・削除を希望される場合は、下記連絡先までお問い合わせください。本人確認の上、合理的な範囲で対応いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"level":2,"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">9. プライバシーポリシーの変更</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748">当事務所は、必要に応じて本プライバシーポリシーを変更することがあります。変更後のプライバシーポリシーは、当ウェブサイトに掲載した時点から効力を生じるものとします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:heading {"level":3,"style":{"color":{"text":"#1a365d"}}} -->
+<h3 class="wp-block-heading has-text-color" style="color:#1a365d">お問い合わせ先</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
+<p class="has-text-color" style="color:#2d3748"><strong>みやび社会保険労務士事務所</strong><br>〒香川県坂出市<br>TEL: XXX-XXX-XXXX<br>Email: info@miyabi-sr.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:paragraph {"align":"right","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-align-right has-text-color" style="color:#718096;font-size:0.85rem">制定日: 2024年12月14日</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

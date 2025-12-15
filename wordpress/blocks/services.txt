@@ -1,0 +1,143 @@
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">サービス</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"1.1rem"},"color":{"text":"#718096"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:1.1rem">みやび社会保険労務士事務所では、中小企業様の人事労務に関する業務を幅広くサポートいたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":55,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-insurance.jpg" alt="社会保険・労働保険手続き" class="wp-image-55" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d">社会保険・労働保険手続き</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
+<p class="has-text-color" style="color:#718096">入社・退社に伴う届出から保険料の算定まで、煩雑な社会保険・労働保険業務を正確かつ丁寧に代行いたします。担当者の負担を軽減し、安心して本業に集中できる体制づくりを支援いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>社会保険の資格取得・喪失届</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>健康保険の被扶養者（異動）届</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>雇用保険の資格取得・喪失届、離職票</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>労働保険の年度更新</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>算定基礎届、月額変更届</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":56,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-payroll.jpg" alt="給与計算代行" class="wp-image-56" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d">給与計算代行</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
+<p class="has-text-color" style="color:#718096">毎月の給与計算を正確かつ丁寧に行い、給与明細書の作成まで一貫して対応いたします。締切に追われる不安を減らし、経営者様とご担当者様の業務負担を軽減いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>月例給与計算</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>給与明細書の作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>賞与計算、賞与支払届に必要な資料作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>振込データの作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>住民税（特別徴収）の対応</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:image {"id":54,"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":"12px"},"spacing":{"margin":{"bottom":"1.5rem"}}}} -->
+<figure class="wp-block-image size-large has-custom-border" style="margin-bottom:1.5rem"><img src="http://miyabi-srjp.local/wp-content/uploads/2025/12/service-consulting.jpg" alt="人事労務支援" class="wp-image-54" style="border-radius:12px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#1a365d"}}} -->
+<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d">人事労務支援</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
+<p class="has-text-color" style="color:#718096">働きやすい職場環境づくりを幅広くサポートいたします。就業規則の整備や日々の労務相談をはじめ、助成金申請の支援、労働基準監督署・年金事務所の調査対応まで、一貫して対応いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list {"className":"wp-block-list"} -->
+<ul class="wp-block-list"><!-- wp:list-item -->
+<li>就業規則の作成・見直し</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>助成金の申請サポート</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>労務相談</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>労働基準監督署の調査対応</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>年金事務所の調査対応</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">まずはお気軽にご相談ください</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#ffffff">初回相談は無料です。御社の状況に合わせた最適なプランをご提案いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">お問い合わせ →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

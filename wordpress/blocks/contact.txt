@@ -1,0 +1,179 @@
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem","left":"2rem","right":"2rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:5rem;padding-right:2rem;padding-bottom:5rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontSize":"2.2rem"},"color":{"text":"#1a365d"}}} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:2.2rem">お問い合わせ</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096">ご質問やご相談がございましたら、お気軽にお問い合わせください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem"},"blockGap":"0.75rem"}},"layout":{"type":"flex","flexWrap":"wrap","justifyContent":"center","verticalAlignment":"center"}} -->
+<div class="wp-block-group" style="padding-top:1rem;padding-bottom:1rem"><!-- wp:paragraph {"style":{"color":{"text":"#2d3748"},"spacing":{"padding":{"top":"0.5rem","bottom":"0.5rem","left":"1.25rem","right":"1.25rem"}},"border":{"radius":"50px","width":"1px","style":"solid","color":"#e2e8f0"}},"backgroundColor":"white"} -->
+<p class="has-text-color has-white-background-color has-background" style="border-color:#e2e8f0;border-style:solid;border-width:1px;border-radius:50px;color:#2d3748;padding-top:0.5rem;padding-right:1.25rem;padding-bottom:0.5rem;padding-left:1.25rem">💻 オンライン対応可</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"},"spacing":{"padding":{"top":"0.5rem","bottom":"0.5rem","left":"1.25rem","right":"1.25rem"}},"border":{"radius":"50px","width":"1px","style":"solid","color":"#e2e8f0"}},"backgroundColor":"white"} -->
+<p class="has-text-color has-white-background-color has-background" style="border-color:#e2e8f0;border-style:solid;border-width:1px;border-radius:50px;color:#2d3748;padding-top:0.5rem;padding-right:1.25rem;padding-bottom:0.5rem;padding-left:1.25rem">⏰ 2営業日以内に返信</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#2d3748"},"spacing":{"padding":{"top":"0.5rem","bottom":"0.5rem","left":"1.25rem","right":"1.25rem"}},"border":{"radius":"50px","width":"1px","style":"solid","color":"#e2e8f0"}},"backgroundColor":"white"} -->
+<p class="has-text-color has-white-background-color has-background" style="border-color:#e2e8f0;border-style:solid;border-width:1px;border-radius:50px;color:#2d3748;padding-top:0.5rem;padding-right:1.25rem;padding-bottom:0.5rem;padding-left:1.25rem">🔒 秘密厳守</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:1.5rem">ご相談の流れ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:spacer {"height":"24px"} -->
+<div style="height:24px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-weight:700">STEP 1</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
+<p class="has-text-align-center" style="font-size:2rem">📝</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#1a365d;font-weight:600">お問い合わせ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem">フォームまたはお電話</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-weight:700">STEP 2</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
+<p class="has-text-align-center" style="font-size:2rem">📞</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#1a365d;font-weight:600">ヒアリング</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem">お悩みを詳しくお聞きします</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-weight:700">STEP 3</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
+<p class="has-text-align-center" style="font-size:2rem">📋</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#1a365d;font-weight:600">ご提案</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem">最適なプランをご提案</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1rem","right":"1rem"}},"border":{"radius":"12px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white"} -->
+<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:12px;padding-top:1.5rem;padding-right:1rem;padding-bottom:1.5rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontWeight":"700"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-weight:700">STEP 4</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"2rem"}}} -->
+<p class="has-text-align-center" style="font-size:2rem">🤝</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#1a365d"},"typography":{"fontWeight":"600"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#1a365d;font-weight:600">ご契約</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem">サポート開始</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:columns {"align":"wide"} -->
+<div class="wp-block-columns alignwide"><!-- wp:column {"width":"60%"} -->
+<div class="wp-block-column" style="flex-basis:60%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"2rem","bottom":"2rem","left":"2rem","right":"2rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem"><!-- wp:heading {"style":{"color":{"text":"#1a365d"},"typography":{"fontSize":"1.5rem"}}} -->
+<h2 class="wp-block-heading has-text-color" style="color:#1a365d;font-size:1.5rem">お問い合わせフォーム</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
+<p class="has-text-color" style="color:#718096">以下のフォームに必要事項をご記入ください。2営業日以内にご返信いたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[contact-form-7 id="3263004" title="お問い合わせフォーム"]
+<!-- /wp:shortcode --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":"40%"} -->
+<div class="wp-block-column" style="flex-basis:40%"><!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">📞 お電話</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">XXX-XXX-XXXX</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.8rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.8rem">平日 9:00〜18:00</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">✉️ メール</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">info@miyabi-sr.com</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"16px"} -->
+<div style="height:16px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1.5rem","bottom":"1.5rem","left":"1.5rem","right":"1.5rem"}},"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:1.5rem;padding-right:1.5rem;padding-bottom:1.5rem;padding-left:1.5rem"><!-- wp:paragraph {"style":{"color":{"text":"#718096"},"typography":{"fontSize":"0.85rem"}}} -->
+<p class="has-text-color" style="color:#718096;font-size:0.85rem">📍 所在地</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#1a365d"},"typography":{"fontStyle":"normal","fontWeight":"600","fontSize":"1.1rem"}}} -->
+<p class="has-text-color" style="color:#1a365d;font-size:1.1rem;font-style:normal;font-weight:600">香川県坂出市</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
