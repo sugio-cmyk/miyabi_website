@@ -175,7 +175,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#2d3748"}}} -->
-<p class="has-text-color" style="color:#2d3748"><strong>みやび社会保険労務士事務所</strong><br>〒香川県坂出市<br>TEL: XXX-XXX-XXXX<br>Email: info@miyabi-sr.com</p>
+<p class="has-text-color" style="color:#2d3748"><strong>みやび社会保険労務士事務所</strong><br>香川県坂出市<br>TEL: 0877-43-5001<br>Email: info@miyabi-sr.jp</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 

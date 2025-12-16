@@ -424,6 +424,75 @@ h2.wp-block-heading {
     margin-top: 0.1em;
 }
 
+/* FAQ Accordion (Details block) Styles */
+.wp-block-details {
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+.wp-block-details:hover {
+    background-color: #f7fafc;
+}
+
+.wp-block-details summary {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #1a365d;
+    list-style: none;
+    position: relative;
+    padding-right: 2rem;
+}
+
+/* Chevron indicator */
+.wp-block-details summary::after {
+    content: "▼";
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 0.8rem;
+    color: #a0aec0;
+    transition: transform 0.2s ease;
+}
+
+.wp-block-details[open] summary::after {
+    transform: rotate(180deg);
+}
+
+.wp-block-details summary::-webkit-details-marker {
+    display: none;
+}
+
+.wp-block-details summary::before {
+    content: "";
+    display: block;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    background: url('/wp-content/uploads/2025/12/icon-q.png') no-repeat center;
+    background-size: contain;
+    flex-shrink: 0;
+}
+
+.wp-block-details>p {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+}
+
+.wp-block-details>p::before {
+    content: "";
+    display: block;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    background: url('/wp-content/uploads/2025/12/icon-a.png') no-repeat center;
+    background-size: contain;
+    flex-shrink: 0;
+}
+
 
 /* ============================================
    18. TABLE STYLES

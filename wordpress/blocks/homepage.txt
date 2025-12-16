@@ -13,7 +13,7 @@
 
 <!-- wp:buttons {"style":{"spacing":{"margin":{"top":"2rem"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons" style="margin-top:2rem"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">無料相談を申し込む</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">まずは話を聞いてみる</a></div>
 <!-- /wp:button -->
 
 <!-- wp:button {"className":"is-style-outline","style":{"border":{"radius":"50px","width":"2px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}},"color":{"text":"#ffffff"}}} -->
@@ -88,7 +88,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-color" style="color:#718096">社員の入退社手続きや保険証の発行に時間がかかり、本業に集中できない...</p>
+<p class="has-text-color" style="color:#718096">社員の入退社手続きや各種届出に時間がかかり、本業に集中できない...</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column -->
 
@@ -117,40 +117,6 @@
 
 <!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
 <p class="has-text-color" style="color:#718096">ルールが決まっておらず、従業員とのトラブルや法改正への対応が心配...</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:spacer {"height":"32px"} -->
-<div style="height:32px" aria-hidden="true" class="wp-block-spacer"></div>
-<!-- /wp:spacer -->
-
-<!-- wp:columns {"align":"wide","style":{"spacing":{"blockGap":{"top":"2rem","left":"2rem"}}},"layout":{"type":"flex","justifyContent":"center"}} -->
-<div class="wp-block-columns alignwide"><!-- wp:column {"width":"33.33%","style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
-<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem;flex-basis:33.33%"><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
-<p class="has-text-align-center has-huge-font-size">💰</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#e53e3e"}}} -->
-<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#e53e3e">助成金を知りたい</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-color" style="color:#718096">自分の会社で使える助成金があるのか、何から始めればいいか分からない...</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"width":"33.33%","style":{"border":{"radius":"16px","width":"1px","style":"solid","color":"#cbd5e0"},"spacing":{"padding":{"top":"2rem","right":"2rem","bottom":"2rem","left":"2rem"}}},"backgroundColor":"white"} -->
-<div class="wp-block-column has-border-color has-white-background-color has-background" style="border-color:#cbd5e0;border-style:solid;border-width:1px;border-radius:16px;padding-top:2rem;padding-right:2rem;padding-bottom:2rem;padding-left:2rem;flex-basis:33.33%"><!-- wp:paragraph {"align":"center","fontSize":"huge"} -->
-<p class="has-text-align-center has-huge-font-size">🆘</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"textAlign":"center","level":3,"style":{"color":{"text":"#e53e3e"}}} -->
-<h3 class="wp-block-heading has-text-align-center has-text-color" style="color:#e53e3e">労基署調査が不安</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"color":{"text":"#718096"}}} -->
-<p class="has-text-color" style="color:#718096">突然の調査連絡にどう対応すればいいか分からず、指摘事項がないか怖い...</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->
@@ -313,13 +279,13 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"color":{"gradient":"linear-gradient(135deg,#c9a227 0%,#dbb94a 100%)"},"border":{"radius":"50px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">無料相談を申し込む →</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link has-background wp-element-button" href="/contact/" style="border-radius:50px;background:linear-gradient(135deg,#c9a227 0%,#dbb94a 100%);padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">まずは話を聞いてみる</a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"4rem","bottom":"2rem","left":"1rem","right":"1rem"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-white-background-color has-background" style="padding-top:4rem;padding-right:1rem;padding-bottom:2rem;padding-left:1rem"><!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"0.85rem"},"color":{"text":"#718096"}}} -->
-<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem"><strong>対応エリア（香川県全域）:</strong><br>高松市 / 丸亀市 / 坂出市 / 善通寺市 / 観音寺市 / さぬき市 / 東かがわ市 / 三豊市 / 土庄町 / 小豆島町 / 三木町 / 直島町 / 宇多津町 / 綾川町 / 琴平町 / 多度津町 / まんのう町</p>
+<p class="has-text-align-center has-text-color" style="color:#718096;font-size:0.85rem">高松市・坂出市・丸亀市を中心に、香川県全域に対応しております</p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
