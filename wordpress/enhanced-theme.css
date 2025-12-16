@@ -120,6 +120,11 @@ html {
     margin-top: auto;
 }
 
+/* サービスカードの説明文を揃える */
+.wp-block-column.has-background>h3+p {
+    min-height: 7em;
+}
+
 /* カードホバー */
 .wp-block-column.has-background:hover {
     transform: translateY(-6px);
@@ -379,4 +384,96 @@ h2.wp-block-heading {
 
 .hover-lift:hover {
     transform: translateY(-4px);
+}
+
+/* ============================================
+   17. FAQ STYLES
+   ============================================ */
+/* FAQ質問のスタイル */
+.wp-block-group.has-background h3[style*="1.1rem"] {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.75rem;
+}
+
+.wp-block-group.has-background h3[style*="1.1rem"]::before {
+    content: "";
+    display: block;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    background: url('/wp-content/uploads/2025/12/icon-q.png') no-repeat center;
+    background-size: contain;
+}
+
+/* FAQ回答のスタイル */
+.wp-block-group.has-background h3[style*="1.1rem"]+p {
+    padding-left: 0;
+}
+
+.wp-block-group.has-background h3[style*="1.1rem"]+p::before {
+    content: "";
+    display: block;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    background: url('/wp-content/uploads/2025/12/icon-a.png') no-repeat center;
+    background-size: contain;
+    float: left;
+    margin-right: 0.75rem;
+    margin-top: 0.1em;
+}
+
+
+/* ============================================
+   18. TABLE STYLES
+   ============================================ */
+.wp-block-table table {
+    border-collapse: separate;
+    border-spacing: 0;
+    width: 100%;
+}
+
+.wp-block-table td {
+    padding: 1rem 1.25rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.wp-block-table tr:last-child td {
+    border-bottom: none;
+}
+
+.wp-block-table td:first-child {
+    background: #f8fafc;
+    color: var(--color-primary);
+    font-weight: 600;
+    width: 35%;
+}
+
+.wp-block-table td:last-child {
+    color: var(--color-text);
+}
+
+/* ========================================
+   フッタースタイル
+======================================== */
+.site-footer {
+    background: var(--color-primary);
+    color: #ffffff;
+}
+
+.site-footer a {
+    color: rgba(255, 255, 255, 0.8);
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    color: #ffffff;
+}
+
+/* フッターウィジェット調整 */
+.site-footer .widget p {
+    margin: 0.4rem 0;
+    font-size: 0.9rem;
+    line-height: 1.6;
 }
