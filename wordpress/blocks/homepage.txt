@@ -268,6 +268,42 @@
 <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
 <!-- /wp:spacer -->
 
+<!-- wp:group {"align":"wide","style":{"spacing":{"padding":{"top":"6rem","right":"2rem","bottom":"6rem","left":"2rem"}},"color":{"background":"#f0f4f8","text":"#1a365d"}}} -->
+<div class="wp-block-group alignwide has-text-color has-background" style="background-color:#f0f4f8;color:#1a365d;padding-top:6rem;padding-right:2rem;padding-bottom:6rem;padding-left:2rem">
+<!-- wp:heading {"textAlign":"center","style":{"typography":{"fontSize":"clamp(1.8rem, 4vw, 2.2rem)"},"color":{"text":"#1a365d"}}} -->
+<h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#1a365d;font-size:clamp(1.8rem, 4vw, 2.2rem)">最新情報</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#c9a227"},"typography":{"fontSize":"0.85rem","letterSpacing":"0.2em"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#c9a227;font-size:0.85rem;letter-spacing:0.2em">NEWS & TOPICS</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"className":"news-list-container"} -->
+<div class="wp-block-group news-list-container">
+<!-- wp:latest-posts {"postsToShow":3,"displayPostDate":true,"order":"desc","orderBy":"date","className":"news-list"} /-->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+<div class="wp-block-buttons"><!-- wp:button {"className":"is-style-outline","style":{"border":{"radius":"50px","width":"2px"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}},"color":{"text":"#1a365d"}}} -->
+<div class="wp-block-button is-style-outline"><a class="wp-block-button__link has-text-color wp-element-button" href="/news/" style="border-width:2px;border-radius:50px;color:#1a365d;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem">記事一覧を見る →</a></div>
+<!-- /wp:button --></div>
+<!-- /wp:buttons -->
+</div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"40px"} -->
+<div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"3rem","bottom":"3rem","left":"2rem","right":"2rem"}},"border":{"radius":"24px"},"color":{"background":"#5a7a54"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-background" style="border-radius:24px;background-color:#5a7a54;padding-top:3rem;padding-right:2rem;padding-bottom:3rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","style":{"color":{"text":"#ffffff"}}} -->
 <h2 class="wp-block-heading has-text-align-center has-text-color" style="color:#ffffff">まずはお気軽にご相談ください</h2>

@@ -546,3 +546,202 @@ h2.wp-block-heading {
     font-size: 0.9rem;
     line-height: 1.6;
 }
+
+/* ============================================
+   19. NEWS SECTION (Latest Posts Grid)
+   ============================================ */
+.news-grid .wp-block-latest-posts {
+    display: grid !important;
+    /* Force grid layout override if needed */
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+}
+
+.news-grid .wp-block-latest-posts__list-item {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 0;
+    /* Remove default padding to let image flush */
+    overflow: hidden;
+    /* For image curve */
+    box-shadow: var(--shadow-sm);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    list-style: none !important;
+}
+
+.news-grid .wp-block-latest-posts__list-item:hover {
+    transform: translateY(-6px);
+    box-shadow: var(--shadow-lg);
+}
+
+.news-grid .wp-block-latest-posts__featured-image {
+    margin-bottom: 0 !important;
+    width: 100%;
+}
+
+.news-grid .wp-block-latest-posts__featured-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    display: block;
+}
+
+/* Content padding wrapper logic needed? 
+   Standard latest-posts doesn't wrap content in a div. 
+   We'll apply padding to title and date elements. */
+.news-grid .wp-block-latest-posts__post-title {
+    font-family: 'Noto Serif JP', serif;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 1.25rem 1.25rem 0.5rem;
+    line-height: 1.4;
+}
+
+.news-grid .wp-block-latest-posts__post-title a {
+    text-decoration: none;
+    color: var(--color-primary);
+}
+
+.news-grid .wp-block-latest-posts__post-date {
+    font-size: 0.85rem;
+    color: var(--color-text-muted);
+    margin: 0 1.25rem 1.25rem;
+    display: block;
+}
+
+/* ============================================
+   20. NEWS SECTION (Labeled List)
+   ============================================ */
+/* List Container (White Card) */
+.news-list-container {
+    background: #ffffff;
+    border-radius: 16px;
+    padding: 2rem 3rem;
+    box-shadow: var(--shadow-sm);
+    max-width: 900px;
+    margin: 2rem auto;
+    /* Adjusted margins */
+}
+
+/* List Item Layout */
+.news-list .wp-block-post {
+    display: flex;
+    align-items: center;
+    padding: 1.25rem 0;
+    border-bottom: 1px solid #e2e8f0;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+}
+
+.news-list .wp-block-post:last-child {
+    border-bottom: none;
+}
+
+/* Date */
+.news-list .wp-block-post-date {
+    font-size: 0.9rem;
+    color: var(--color-text-muted);
+    font-family: 'Noto Sans JP', sans-serif;
+    min-width: 100px;
+    margin: 0;
+}
+
+/* Category Badge (Post Terms) */
+.news-list .wp-block-post-terms {
+    margin: 0;
+}
+
+.news-list .wp-block-post-terms a {
+    background: var(--color-accent);
+    color: #ffffff;
+    font-size: 0.8rem;
+    padding: 4px 12px;
+    border-radius: 50px;
+    text-decoration: none;
+    font-weight: 500;
+    display: inline-block;
+    transition: background 0.3s ease;
+}
+
+.news-list .wp-block-post-terms a:hover {
+    background: var(--color-accent-light);
+}
+
+/* Title */
+.news-list .wp-block-post-title {
+    font-size: 1.05rem;
+    font-weight: 500;
+    margin: 0;
+    flex: 1;
+    /* Take remaining space */
+}
+
+.news-list .wp-block-post-title a {
+    text-decoration: none;
+    color: var(--color-text);
+    transition: color 0.3s ease;
+}
+
+.news-list .wp-block-post-title a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .news-list-container {
+        padding: 1.5rem;
+    }
+
+    .news-list .wp-block-post {
+        align-items: flex-start;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+}
+
+/* Latest Posts (Clean List with Flex Order for Standard Block) */
+.news-list ul {
+    list-style: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
+}
+
+.news-list li {
+    border-bottom: 1px solid #e2e8f0;
+    padding: 1.25rem 0;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 1.5rem;
+}
+
+.news-list li:last-child {
+    border-bottom: none;
+}
+
+/* Swap Order: Date first, then Title */
+.news-list a {
+    order: 2;
+    flex: 1;
+    font-weight: 500;
+    text-decoration: none;
+    color: var(--color-text);
+    transition: color 0.3s ease;
+}
+
+.news-list a:hover {
+    color: var(--color-primary);
+    text-decoration: underline;
+}
+
+.news-list .wp-block-latest-posts__post-date {
+    order: 1;
+    color: var(--color-text-muted);
+    font-size: 0.9rem;
+    min-width: 100px;
+    margin: 0;
+}
