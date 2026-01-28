@@ -1,0 +1,163 @@
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">新しく従業員を採用したとき、「届出はいつまでに出せばいいの？」「何を準備すればいいの？」と迷うことはありませんか？届出期限を過ぎてしまうと、罰則の対象になる可能性もあります。この記事では、社会保険労務士が入社手続きの流れと必要書類を分かりやすく解説します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-circle-info\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-circle-info"></i><h3 class="vk_borderBox_title">この記事のポイント</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>健康保険・厚生年金は入社から5日以内に届出が必要</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険は翌月10日までに届出が必要</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>届出に必要な書類は事前に従業員から回収しておく</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">社会保険の届出</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員を採用したら、健康保険と厚生年金保険の届出が必要です。届出先は、協会けんぽまたは健康保険組合、および年金事務所です。電子申請を利用すれば、窓口に行かずに手続きができます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">届出期限</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">届出期限は<strong>入社日から5日以内</strong>です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出期限を過ぎると、遡って届出が必要になります。保険料も遡って発生するため、早めの届出をお勧めします。なお、雇用保険についても同様です。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">届出に必要な書類</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>健康保険・厚生年金保険 被保険者資格取得届</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>年金手帳（基礎年金番号がわかるもの）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>マイナンバー（個人番号）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">雇用保険の届出</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員を採用したら、雇用保険の届出も必要です。届出先はハローワーク（公共職業安定所）です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">届出期限</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">届出期限は<strong>入社日の属する月の翌月10日まで</strong>です。例えば、4月15日に入社した従業員の届出期限は5月10日となります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">届出に必要な書類</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>雇用保険被保険者資格取得届</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険被保険者証（前職がある場合）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">パートやアルバイトも届出が必要ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">週20時間以上勤務し、月額賃金が8万8千円以上など、一定の条件を満たす場合は届出が必要です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出を忘れた場合はどうすればいいですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">遅延届出は可能です。ただし、理由書の提出を求められる場合があります。できるだけ早めに届出しましょう。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出は自分でできますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">はい、事業主様ご自身でも届出できます。ただし、手続きが複雑な場合や時間がない場合は、社会保険労務士に依頼することをお勧めします。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">届出期限一覧</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false,"className":"post-table is-style-regular","style":{"border":{"width":"1px"}},"borderColor":"black"} -->
+<figure class="wp-block-table post-table is-style-regular"><table class="has-border-color has-black-border-color" style="border-width:1px"><thead><tr><th>保険種別</th><th>届出先</th><th>届出期限</th></tr></thead><tbody><tr><td>健康保険・厚生年金</td><td>年金事務所または協会けんぽ</td><td>入社から5日以内</td></tr><tr><td>雇用保険</td><td>ハローワーク</td><td>翌月10日まで</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-check\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-check"></i><h3 class="vk_borderBox_title">まとめ</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>健康保険・厚生年金は入社から5日以内</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険は翌月10日まで</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>届出に必要な書類は事前に確認・回収</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>困ったら社労士に相談</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->

@@ -1,0 +1,252 @@
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">法改正対応は、確定した内容の反映と、見込み段階の備えを分けるのが最も安全です。会社がまず整えるべきは「対象判定」「規程・運用の棚卸し」「社内周知」の3点。迷う論点は早めに整理し、スピーディーに対応することで、トラブルと手戻りを防げます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-circle-info\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-circle-info"></i><h3 class="vk_borderBox_title">この記事のポイント</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>法改正は「確定」と「見込み」を分けて対応すると手戻りが減る</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>会社が先にやるのは「対象判定→規程/運用→設定→周知」</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>判断に迷う論点は、早めに整理しておくほどコストが下がる</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">なぜ法改正対応は『漏れやすい』のか</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">法改正は、施行日や対象範囲の細部が更新されたり、実務解釈（通達・Q&A）が後から示されることがあります。実務で混乱が起きやすい理由は次のとおりです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>自社が対象かどうか、境界ケースで判断が割れる</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>就業規則を直すべきか、運用変更だけで足りるか分からない</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>勤怠・給与設定の反映が遅れ、差額精算や説明コストが発生する</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>周知不足で従業員との認識差がトラブルになる</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">ロードマップの基本：確定情報／見込み情報を分ける</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">1）確定情報（施行日・対象が確定）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">やることはシンプルです。<strong>「規程（ルール）」「運用（やり方）」「設定（勤怠・給与）」「周知（説明）」</strong>を期限で回します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">2）見込み情報（検討段階）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">焦って制度を断定しないことが重要です。代わりに、<strong>「影響が出る可能性がある会社の特徴」と「確認手順」</strong>だけ準備し、確定後に一気に反映する方が安全です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">会社が今すぐできる『3つの準備』（チェックリスト）</h2>
+<!-- /wp:heading -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">準備①：対象判定に必要な情報を整理する</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>雇用形態（正社員／パート／有期）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>所定労働時間、残業・休日労働の実態</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>社会保険の加入状況（適用条件の確認）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>賃金体系（基本給・手当・固定残業代の有無）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">準備②：規程と運用のズレを棚卸しする</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>就業規則の条項が、現状の運用と一致しているか</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>賃金規程の手当・控除・締日支払日が、給与実務と整合しているか</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>休職・懲戒・副業など、揉めやすい論点が欠けていないか</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">準備③：社内周知の型を作る（毎回これで回す）</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>何が変わるか（要点）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>誰に影響するか（対象）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>いつからか（施行日／給与反映月）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>会社としてどう対応するか（手順・ルール）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">専門家に任せる判断基準（早めが安全なケース）</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">次に当てはまる場合は、早期相談が合理的です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>対象判定が割れる（境界ケース）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>就業規則の改定が必要（不利益変更・周知手続が絡む）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>割増賃金・固定残業代など、金銭トラブルに直結する</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>調査（労基署・年金事務所等）を見据えて整備したい</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">施行直前より、数か月前に『対象確認と運用整理』を済ませる方が手戻りが減ります。判断に迷う論点があれば早めにご相談ください。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">法改正情報は、何を見れば正確ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">官公庁・公的機関の一次情報を基準にし、「確定（施行日・対象）」「運用詳細（通達・Q&A）」を分けて確認するのが安全です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">『見込み』の段階で就業規則を変えるべきですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">原則は急がず、影響調査（対象者・運用箇所・給与設定）だけ先に進め、確定後に反映する方が安全です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">一番ミスが起きやすいのはどこですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">(1)対象判定、(2)給与・勤怠設定の反映漏れ、(3)周知不足です。特に給与は差額精算が出やすいため点検優先度が高いです。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">社内で追いきれません。最低限どう回せばいいですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">「対象確認→影響箇所→設定→周知」をテンプレ化し、改正ごとに同じ手順で回すのが最短です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">相談するなら、いつがベストですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">施行直前より、数か月前に『対象確認と運用整理』を済ませる方が手戻りが減ります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-check\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-check"></i><h3 class="vk_borderBox_title">まとめ</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>法改正は「確定」と「見込み」を分けて対応</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>会社が先にやるのは対象判定→規程→設定→周知</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>判断に迷う論点は早めに整理がベスト</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>境界ケース・規程改定・金銭は専門家相談推奨</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->

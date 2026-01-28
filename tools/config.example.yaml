@@ -1,0 +1,68 @@
+# ============================================
+# 記事自動投稿ツール 設定ファイル
+# ============================================
+# このファイルを config.yaml にコピーして使用してください
+# config.yaml は .gitignore に追加してください
+
+# Gemini API設定
+gemini:
+  # APIキー（環境変数を推奨）
+  # Google AI Studio で取得: https://aistudio.google.com/
+  api_key: ${GEMINI_API_KEY}
+  
+  # 使用モデル
+  # gemini-2.0-flash: 高速・無料枠大
+  # gemini-1.5-pro: 高品質
+  # gemini-3-pro: 最新（プレビュー）
+  model: gemini-2.0-flash
+  
+  # 生成パラメータ（低いほど安定）
+  temperature: 0.3
+  max_output_tokens: 8192
+
+# WordPress設定
+wordpress:
+  # サイトURL（末尾スラッシュなし）
+  site_url: https://example.com
+  
+  # ログインユーザー名
+  username: admin
+  
+  # Application Password（環境変数を推奨）
+  # 管理画面 → ユーザー → プロフィール → Application Passwords で取得
+  app_password: ${WP_APP_PASSWORD}
+  
+  # デフォルトカテゴリ（名前で指定）
+  default_category: コラム
+  
+  # デフォルト投稿ステータス（draft / publish）
+  default_status: draft
+
+  # サーバーBasic認証（.htaccessなどで設定している場合）
+  basic_auth:
+    enabled: false
+    username: ${BASIC_AUTH_USER}
+    password: ${BASIC_AUTH_PASS}
+
+# 出力設定
+output:
+  # 中間ファイルを保存するか
+  save_json: true
+  save_html: true
+  
+  # 保存先ディレクトリ
+  json_dir: output/json
+  html_dir: output/html
+
+# CTA設定
+cta:
+  # CTAを自動追加するか
+  enabled: true
+  
+  # CTAテンプレートファイル
+  template_file: block-html/posts/cta.txt
+
+# プロンプト設定
+prompt:
+  # 構造化プロンプトファイル
+  template_file: docs/prompts/article_structure.md

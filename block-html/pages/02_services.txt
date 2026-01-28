@@ -1,0 +1,345 @@
+﻿<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp","id":340,"alt":"香川県の瀬戸大橋","dimRatio":50,"overlayColor":"vk-color-primary","isUserOverlayColor":true,"minHeightUnit":"px","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:5rem;padding-bottom:5rem"><img class="wp-block-cover__image-background wp-image-340 size-full" alt="香川県の瀬戸大橋" src="https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-vk-color-primary-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"letterSpacing":"0.2rem"},"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-bottom has-text-color has-small-font-size" style="color:#ffffff;letter-spacing:0.2rem">SERVICES</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"className":"vk_block-margin-md\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h1 class="wp-block-heading has-text-align-center vk_block-margin-md--margin-bottom has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">サービス</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-text-color has-regular-font-size" style="color:#ffffff;line-height:1.8">香川県（坂出市・高松市・丸亀市）を中心に、社会保険手続き・給与計算・<br>就業規則・助成金まで一気通貫で支援します。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk-shadow-lv3 is-style-vk-group-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}},"spacing":{"padding":{"top":"1em","bottom":"1em","left":"2em","right":"2em"},"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group vk-shadow-lv3 is-style-vk-group-shadow has-white-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);padding-top:1em;padding-right:2em;padding-bottom:1em;padding-left:2em"><!-- wp:image {"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center","className":"is-style-vk-image-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}}} -->
+<figure class="wp-block-image aligncenter size-large has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-insurance.webp" alt="社会保険・労働保険手続きのイメージ" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"left":"2rem","right":"2rem","top":"1rem","bottom":"1rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">社会保険・労働保険手続き</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="line-height:1.8">入社・退社の届出から算定基礎届、年度更新まで。届出漏れも含め、煩雑な手続きを正確に代行します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}},"backgroundColor":"vk-color-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-vk-color-light-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-check-circle\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-check-circle"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"regular"} -->
+<p class="has-text-color has-regular-font-size" style="color:#1a365d;font-style:normal;font-weight:600">こんな方におすすめ</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list is-style-vk-triangle-mark","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list is-style-vk-triangle-mark"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">初めて従業員を雇用する（建設業・医療介護・ITなど業種問わず）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">届出漏れやミスを防ぎたい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">担当者の負担を軽くして本業に集中したい</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","color":"#e2e8f0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#e2e8f0;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"style":{"spacing":{"blockGap":"0px"}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-list\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-list"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="font-style:normal;font-weight:600">主な対応業務</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">社会保険の資格取得・喪失届／被扶養者届</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">雇用保険の資格取得・喪失届、離職票</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">算定基礎届、月額変更届</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">労働保険の年度更新</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">産前産後休業・育児休業関連の届出</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">労災保険給付の請求</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk_block-margin-sm\u002d\u002dmargin-top","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group vk_block-margin-sm--margin-top"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk-shadow-lv3 is-style-vk-group-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}},"spacing":{"padding":{"top":"1em","bottom":"1em","left":"2em","right":"2em"},"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group vk-shadow-lv3 is-style-vk-group-shadow has-white-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);padding-top:1em;padding-right:2em;padding-bottom:1em;padding-left:2em"><!-- wp:image {"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center","className":"is-style-vk-image-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}}} -->
+<figure class="wp-block-image aligncenter size-large has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-payroll.webp" alt="給与計算代行のイメージ" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"left":"2rem","right":"2rem","top":"1rem","bottom":"1rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">給与計算代行</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="line-height:1.8">毎月の給与計算から明細作成まで一貫対応。保険料変更・住民税・残業計算など、ミスが起きやすい領域を安定運用します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}},"backgroundColor":"vk-color-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-vk-color-light-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-check-circle\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-check-circle"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"regular"} -->
+<p class="has-text-color has-regular-font-size" style="color:#1a365d;font-style:normal;font-weight:600">こんな方におすすめ</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list is-style-vk-triangle-mark","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list is-style-vk-triangle-mark"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">毎月の締切に追われ、確認時間が取れない</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">担当者の退職・異動で運用が不安</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">計算ミスを防ぎ、従業員からの信頼を高めたい</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","color":"#e2e8f0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#e2e8f0;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-list\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-list"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="font-style:normal;font-weight:600">主な対応業務</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">月例給与計算、給与明細書の作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">賞与計算、賞与支払届</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">振込データの作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">住民税（特別徴収）の対応</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">年末調整（提携税理士を紹介）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">マイナンバー対応</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk_block-margin-sm\u002d\u002dmargin-top","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group vk_block-margin-sm--margin-top"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk-shadow-lv3 is-style-vk-group-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}},"spacing":{"padding":{"top":"1em","bottom":"1em","left":"2em","right":"2em"},"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group vk-shadow-lv3 is-style-vk-group-shadow has-white-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40);padding-top:1em;padding-right:2em;padding-bottom:1em;padding-left:2em"><!-- wp:image {"aspectRatio":"16/9","scale":"cover","sizeSlug":"large","linkDestination":"none","align":"center","className":"is-style-vk-image-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}}} -->
+<figure class="wp-block-image aligncenter size-large has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-consulting.webp" alt="人事労務支援のイメージ" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"left":"2rem","right":"2rem","top":"1rem","bottom":"1rem"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">人事労務支援</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="line-height:1.8">就業規則の作成、労務相談、助成金申請など。会社の「仕組み」を整え、トラブル予防と定着を支えます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}},"backgroundColor":"vk-color-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-vk-color-light-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-check-circle\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-check-circle"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"regular"} -->
+<p class="has-text-color has-regular-font-size" style="color:#1a365d;font-style:normal;font-weight:600">こんな方におすすめ</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list is-style-vk-triangle-mark","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list is-style-vk-triangle-mark"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">就業規則を新規作成／法改正に合わせて見直したい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">助成金を活用し、採用・定着・働き方整備を進めたい</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">労務トラブルを未然に防ぎたい</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"20px"} -->
+<div style="height:20px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","color":"#e2e8f0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-border-color" style="border-color:#e2e8f0;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-list\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#1a365d"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#1a365d;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fas vk_icon_font fa-list"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="font-style:normal;font-weight:600">主な対応業務</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list {"className":"wp-block-list","style":{"typography":{"fontSize":"14px","lineHeight":"1.8"}}} -->
+<ul style="font-size:14px;line-height:1.8" class="wp-block-list"><!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">就業規則の作成・見直し</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">助成金の申請サポート（要件整理〜申請まで）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">労務相談（解雇・休職・ハラスメント・時間外など）</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">36協定等の労使協定作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">労働基準監督署／年金事務所の調査対応</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item {"fontSize":"small"} -->
+<li class="has-small-font-size">人事制度・評価制度の構築支援</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"vk_block-margin-sm\u002d\u002dmargin-top","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group vk_block-margin-sm--margin-top"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background" id="pricing" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:paragraph {"align":"center","style":{"typography":{"letterSpacing":"0.2rem"},"color":{"text":"#666666"},"spacing":{"margin":{"bottom":"0"}}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-text-color has-regular-font-size" style="color:#666666;margin-bottom:0;letter-spacing:0.2rem">PRICING</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">料金の目安</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-md\u002d\u002dmargin-bottom","fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-md--margin-bottom has-regular-font-size">従業員数・業務範囲・顧問頻度により変動します。まずはお気軽にお問い合わせください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-column" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="font-style:normal;font-weight:600">顧問契約・給与計算</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<p class="has-text-align-center vk_block-margin-xxs--margin-bottom has-text-color has-large-font-size" style="color:#1a365d;font-style:normal;font-weight:700">月額 20,000円〜</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#666666"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-text-color has-small-font-size" style="color:#666666">従業員数・業務内容による</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-column" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="font-style:normal;font-weight:600">就業規則作成</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<p class="has-text-align-center vk_block-margin-xxs--margin-bottom has-text-color has-large-font-size" style="color:#1a365d;font-style:normal;font-weight:700">150,000円〜</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#666666"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-text-color has-small-font-size" style="color:#666666">新規作成・見直し対応</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}}} -->
+<div class="wp-block-column" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="font-style:normal;font-weight:600">助成金申請サポート</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<p class="has-text-align-center vk_block-margin-xxs--margin-bottom has-text-color has-large-font-size" style="color:#1a365d;font-style:normal;font-weight:700">成功報酬制</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#666666"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-text-color has-small-font-size" style="color:#666666">着手金なし</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-top","style":{"color":{"text":"#666666"}},"fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-top has-text-color has-small-font-size" style="color:#666666">※上記は目安です。詳細はお問い合わせ時にお見積もりいたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"vk_block-margin-sm\u002d\u002dmargin-top","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group vk_block-margin-sm--margin-top"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

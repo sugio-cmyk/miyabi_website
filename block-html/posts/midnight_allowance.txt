@@ -1,0 +1,196 @@
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">「夜勤スタッフの給与計算で深夜手当と残業手当が重なると複雑」「深夜手当を基本給に含むのは問題ないか」とお悩みの方も多いのではないでしょうか。深夜手当は労働基準法で定められた割増賃金であり、22時から翌5時までの労働に対して25%以上の割増が必要です。この記事では、深夜手当の計算方法から残業との違い、違法になるケースまでわかりやすく解説します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-circle-info\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-circle-info"></i><h3 class="vk_borderBox_title">この記事のポイント</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>深夜手当は22時〜翌5時の労働に対し25%以上の割増が必要</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>パート・アルバイトでも深夜手当の支払いは義務</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>深夜＋残業の場合は50%以上の割増が必要</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">深夜手当とは？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">深夜手当（法律上の名称は「深夜割増賃金」）は、<strong>午後10時（22時）から翌朝午前5時までの「深夜時間」</strong>に労働させた場合に、企業が従業員へ支払う義務がある割増賃金です。労働基準法第37条第4項で定められています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">深夜労働の割増率は25%以上</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">労働基準法により、深夜労働に対する割増率は<strong>通常の賃金の25%以上</strong>と定められています。例えば時給1,000円の場合、深夜帯は1,250円以上となります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">支払い義務と対象となる労働者</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">深夜手当の支払いは、企業の規模や業種にかかわらず、すべての企業に課された法的な義務です。正社員はもちろん、パートタイマーやアルバイト、契約社員であっても、深夜時間帯に労働させた場合は深夜手当を支払わなければなりません。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">「夜勤手当」を支給していても、それが法定の深夜手当の代わりになるとは限りません。法定の深夜割増賃金が夜勤手当を超える場合、差額を別途支払う必要があります。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">深夜手当の計算方法</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">深夜手当の計算は3つのステップで行います。月給制と時給制で若干異なりますが、基本的な考え方は同じです。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>① 通常の勤務時間1時間あたりの賃金を算出</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>② 深夜労働時間数を集計</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>③ 深夜手当額を計算（時給 × 0.25 × 深夜労働時間）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">月給制の場合</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">月給制の場合は、まず1時間あたりの賃金を算出します。月給を月の所定労働時間で割り、その金額に0.25を掛けて深夜割増単価を求めます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">時給制（パート・アルバイト）の場合</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">時給制の場合は計算がシンプルです。<strong>時給 × 0.25 × 深夜労働時間</strong>で深夜手当額が算出できます。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">深夜手当と残業手当の違い</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">深夜手当と残業手当は別のものです。深夜手当は「時間帯」に対する割増、残業手当は「労働時間の長さ」に対する割増です。両方が重なる場合は、それぞれの割増率を合算します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false,"className":"post-table is-style-regular","style":{"border":{"width":"1px"}},"borderColor":"black"} -->
+<figure class="wp-block-table post-table is-style-regular"><table class="has-border-color has-black-border-color" style="border-width:1px"><thead><tr><th>種別</th><th>条件</th><th>割増率</th></tr></thead><tbody><tr><td>深夜手当</td><td>22時〜翌5時の労働</td><td>25%以上</td></tr><tr><td>残業手当</td><td>法定労働時間（1日8時間）超</td><td>25%以上</td></tr><tr><td>深夜＋残業</td><td>深夜時間帯の残業</td><td>50%以上</td></tr><tr><td>休日＋深夜</td><td>法定休日の深夜労働</td><td>60%以上</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">深夜時間帯に残業した場合は、深夜手当25%＋残業手当25%で合計50%以上の割増が必要です。計算を誤ると未払い賃金となり、罰則の対象になります。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">深夜手当がないのは違法になりますか？</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">深夜時間帯に労働させたにもかかわらず深夜手当を支払わないことは、<strong>労働基準法違反</strong>です。違反した場合は、6ヶ月以下の懲役または30万円以下の罰金が科される可能性があります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">よくあるケース</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>「夜勤手当に含まれている」と説明され別途支給されない</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>管理監督者だから不要と誤解されている</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>固定残業代に含まれているという誤った運用</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">パートやアルバイトでも深夜手当は必要ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">はい、必要です。雇用形態にかかわらず、深夜時間帯（22時〜翌5時）に労働した場合は25%以上の割増賃金を支払う義務があります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">深夜手当を基本給に含めることはできますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">一定の条件を満たせば可能です。ただし、通常の賃金部分と割増部分が明確に区分されている必要があります。就業規則への明記も必要です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">深夜手当の計算を間違えていた場合はどうすればいいですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">速やかに差額を精算してください。過去3年分（2020年4月以降は5年分）の未払い賃金を支払う必要があります。就業規則の見直しと再発防止策も重要です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-check\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-check"></i><h3 class="vk_borderBox_title">まとめ</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>深夜手当は22時〜翌5時の労働に25%以上の割増が必要</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>パート・アルバイトを含むすべての従業員に支払い義務あり</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>深夜＋残業は50%以上、深夜＋休日は60%以上の割増</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>未払いは労働基準法違反となり罰則の対象</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->

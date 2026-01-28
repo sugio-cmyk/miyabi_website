@@ -1,0 +1,77 @@
+<!-- ======================================== フッターウィジェット v6 ======================================== -->
+
+<!-- 【使い方】以下の3つのブロックを、それぞれ対応する「フッターウィジェットエリア」に貼り付けてください。 -->
+
+<!-- ======================================== [1] フッターウィジェットエリア1 (左：事務所情報) ======================================== -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.65rem","letterSpacing":"0.15em","fontWeight":"600"},"color":{"text":"#cbd5e0"},"spacing":{"margin":{"bottom":"2px"}}}} -->
+<p class="has-text-color" style="color:#cbd5e0;font-size:0.65rem;font-weight:600;letter-spacing:0.15em;margin-bottom:2px">OFFICE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontFamily":"Noto Serif JP","fontSize":"1rem","fontWeight":"600","lineHeight":"1.4"},"spacing":{"margin":{"bottom":"12px"}}}} -->
+<h4 class="wp-block-heading" style="font-family:'Noto Serif JP';font-size:1rem;font-weight:600;line-height:1.4;margin-bottom:12px">みやび社会保険労務士事務所</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.85rem","lineHeight":"1.6"},"color":{"text":"#4a5568"}}} -->
+<p class="has-text-color" style="color:#4a5568;font-size:0.85rem;line-height:1.6">〒762-0023<br>香川県坂出市加茂町556番地16<br><span style="font-size:0.75rem;color:#a0aec0">（全国オンライン対応）</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.75rem"},"spacing":{"margin":{"top":"8px"}}}} -->
+<p style="font-size:0.75rem;margin-top:8px"><a href="/privacy-policy/" style="text-decoration:none;color:#718096">プライバシーポリシー</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+
+<!-- ======================================== [2] フッターウィジェットエリア2 (中央：メニュー) ======================================== -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.65rem","letterSpacing":"0.15em","fontWeight":"600"},"color":{"text":"#cbd5e0"},"spacing":{"margin":{"bottom":"2px"}}}} -->
+<p class="has-text-color" style="color:#cbd5e0;font-size:0.65rem;font-weight:600;letter-spacing:0.15em;margin-bottom:2px">MENU</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"1rem","fontWeight":"600"},"spacing":{"margin":{"bottom":"12px"}}}} -->
+<h4 class="wp-block-heading" style="margin-bottom:12px;font-size:1rem;font-weight:600">コンテンツ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem","lineHeight":"2"},"spacing":{"margin":{"bottom":"0"}}}} -->
+<p style="font-size:0.9rem;line-height:2;margin-bottom:0"><a href="/" style="text-decoration:none;color:#4a5568">ホーム</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem","lineHeight":"2"},"spacing":{"margin":{"bottom":"0"}}}} -->
+<p style="font-size:0.9rem;line-height:2;margin-bottom:0"><a href="/services/" style="text-decoration:none;color:#4a5568">サービス内容</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem","lineHeight":"2"},"spacing":{"margin":{"bottom":"0"}}}} -->
+<p style="font-size:0.9rem;line-height:2;margin-bottom:0"><a href="/about/" style="text-decoration:none;color:#4a5568">事務所について</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem","lineHeight":"2"},"spacing":{"margin":{"bottom":"0"}}}} -->
+<p style="font-size:0.9rem;line-height:2;margin-bottom:0"><a href="/faq/" style="text-decoration:none;color:#4a5568">よくある質問</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.9rem","lineHeight":"2"},"spacing":{"margin":{"bottom":"0"}}}} -->
+<p style="font-size:0.9rem;line-height:2;margin-bottom:0"><a href="/blog/" style="text-decoration:none;color:#4a5568">お知らせ・コラム</a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+
+<!-- ======================================== [3] フッターウィジェットエリア3 (右：お問い合わせ) ======================================== -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"fontSize":"0.65rem","letterSpacing":"0.15em","fontWeight":"600"},"color":{"text":"#cbd5e0"},"spacing":{"margin":{"bottom":"2px"}}}} -->
+<p class="has-text-color" style="color:#cbd5e0;font-size:0.65rem;font-weight:600;letter-spacing:0.15em;margin-bottom:2px">CONTACT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"1rem","fontWeight":"600"},"spacing":{"margin":{"bottom":"12px"}}}} -->
+<h4 class="wp-block-heading" style="margin-bottom:12px;font-size:1rem;font-weight:600">お問い合わせ</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.85rem","lineHeight":"1.6"},"color":{"text":"#4a5568"},"spacing":{"margin":{"bottom":"15px"}}}} -->
+<p class="has-text-color" style="color:#4a5568;font-size:0.85rem;line-height:1.6;margin-bottom:15px">ご相談・お見積りは<br>お問い合わせフォームから<br>お気軽にどうぞ。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"0.85rem","lineHeight":"1.8"},"color":{"text":"#4a5568"}}} -->
+<p class="has-text-color" style="color:#4a5568;font-size:0.85rem;line-height:1.8"><span style="display:inline-block;width:20px;text-align:center;color:#718096"><i class="far fa-clock"></i></span> フォーム受付：24時間<br><span style="display:inline-block;width:20px;text-align:center;color:#718096"><i class="fas fa-reply"></i></span> 返信：翌営業日まで</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

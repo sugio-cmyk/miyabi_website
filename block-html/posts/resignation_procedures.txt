@@ -1,0 +1,144 @@
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員が退職するとき、「届出はいつまでに出せばいいの？」「必要な書類は何？」と迷うことはありませんか？届出期限を過ぎてしまうと、保険料の精算や離職票の発行が遅れ、トラブルになることもあります。この記事では、社会保険・雇用保険の退職手続きの流れを解説します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-circle-info\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-circle-info"></i><h3 class="vk_borderBox_title">この記事のポイント</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>社会保険の届出は退職日から5日以内</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険は退職日の翌日から10日以内</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>離職票は従業員が希望した場合に発行</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">退職時に必要な届出とは</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員が退職した場合、社会保険（健康保険・厚生年金）と雇用保険の届出が必要です。届出先はそれぞれ異なり、<strong>届出期限も違う</strong>ため、混同しないように注意しましょう。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:table {"hasFixedLayout":false,"className":"post-table is-style-regular","style":{"border":{"width":"1px"}},"borderColor":"black"} -->
+<figure class="wp-block-table post-table is-style-regular"><table class="has-border-color has-black-border-color" style="border-width:1px"><thead><tr><th>届出種別</th><th>届出先</th><th>届出期限</th></tr></thead><tbody><tr><td>健康保険・厚生年金</td><td>年金事務所</td><td>退職日から5日以内</td></tr><tr><td>雇用保険</td><td>ハローワーク</td><td>退職日の翌日から10日以内</td></tr></tbody></table></figure>
+<!-- /wp:table -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">社会保険の届出</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">健康保険・厚生年金保険の資格喪失届を年金事務所に提出します。届出期限は<strong>退職日から5日以内</strong>です。届出が遅れると保険料の精算が遅れる原因になります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">届出に必要な書類</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>健康保険・厚生年金保険 被保険者資格喪失届</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>健康保険証（本人分および被扶養者分）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>マイナンバー（届出書に記載）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">健康保険証は退職日までに回収してください。回収できない場合は「健康保険被保険者証回収不能届」を添付します。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">雇用保険の届出</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">雇用保険の資格喪失届をハローワークに提出します。届出期限は<strong>退職日の翌日から10日以内</strong>です。従業員が離職票を希望する場合は、同時に離職証明書も提出します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"style":{"border":{"left":{"color":"#1a365d","width":"6px"},"top":{},"right":{},"bottom":{}},"spacing":{"padding":{"left":"10px","top":"5px","bottom":"5px"},"margin":{"left":"0","top":"30px","bottom":"20px"}},"typography":{"fontWeight":"700","fontStyle":"normal","fontSize":"1.25rem"}}} -->
+<h3 class="wp-block-heading" style="border-left-color:#1a365d;border-left-width:6px;margin-top:30px;margin-bottom:20px;margin-left:0;padding-top:5px;padding-bottom:5px;padding-left:10px;font-size:1.25rem;font-style:normal;font-weight:700">離職票の発行</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">離職票は従業員が失業給付を受けるために必要な書類です。59歳以上の従業員には本人の希望にかかわらず交付義務があります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"className":"is-style-vk-heading-01 is-style-default","style":{"typography":{"fontSize":"1.625rem","fontStyle":"normal","fontWeight":"700"},"spacing":{"margin":{"top":"30px","bottom":"20px"},"padding":{"bottom":"10px"}},"border":{"bottom":{"color":"var:preset|color|vk-color-primary-dark","width":"2px"},"top":{},"right":{},"left":{}}},"textColor":"vk-color-primary-dark"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 is-style-default has-vk-color-primary-dark-color has-text-color" style="border-bottom-color:var(--wp--preset--color--vk-color-primary-dark);border-bottom-width:2px;margin-top:30px;margin-bottom:20px;padding-bottom:10px;font-size:1.625rem;font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">退職日と届出の基準日はいつですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出の基準日は「退職日」です。最終出勤日ではなく、雇用契約が終了する日を基準にします。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出が遅れた場合はどうなりますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出は遅れても受理されますが、保険料の精算や離職票の発行が遅れ、従業員からクレームになることがあります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">離職票は必ず発行しなければなりませんか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">59歳未満の場合は本人の希望があった場合のみです。ただし、希望があれば必ず発行する義務があります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-check\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-check"></i><h3 class="vk_borderBox_title">まとめ</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>社会保険は退職日から5日以内に届出</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険は退職日の翌日から10日以内</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>健康保険証は退職日までに回収</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>離職票は希望者または59歳以上に発行</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->

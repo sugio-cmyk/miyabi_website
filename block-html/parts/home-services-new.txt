@@ -1,0 +1,113 @@
+﻿<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","className":"is-style-vk-heading-plain vk_block-margin-0\u002d\u002dmargin-bottom"} -->
+<h2 class="wp-block-heading has-text-align-center is-style-vk-heading-plain vk_block-margin-0--margin-bottom">経営者様の「困った」を解決する、3つのサービス</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/spacer {"spaceType":"height","className":"vk_block-margin-0\u002d\u002dmargin-top"} -->
+<div class="wp-block-vk-blocks-spacer vk_spacer vk_spacer-type-height vk_block-margin-0--margin-top"><div class="vk_block-margin-md--height"></div></div>
+<!-- /wp:vk-blocks/spacer -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-0\u002d\u002dmargin-top"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-top">「手続きが面倒」「給与計算が不安」「労務トラブルが怖い」...<br>そんなお悩みを、国家資格者である社会保険労務士が解決します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-md\u002d\u002dmargin-bottom"} -->
+<p class="has-text-align-center vk_block-margin-md--margin-bottom">本業に集中できる環境づくりを、私たちが全力でサポートいたします。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":336,"sizeSlug":"full","linkDestination":"none","className":"vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-sm\u002d\u002dmargin-bottom is-style-vk-image-border"} -->
+<figure class="wp-block-image size-full vk_block-margin-0--margin-top vk_block-margin-sm--margin-bottom is-style-vk-image-border"><img src="http://miyabi-sr.jp/wp-content/uploads/service-insurance.webp" alt="社会保険手続き" class="wp-image-336"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"className":"mb-0 is-style-vk-heading-plain"} -->
+<h4 class="wp-block-heading has-text-align-center mb-0 is-style-vk-heading-plain">社会保険労働保険手続き</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"vk-color-primary","className":"vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-xs\u002d\u002dmargin-bottom","fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-top vk_block-margin-xs--margin-bottom has-vk-color-primary-color has-text-color has-small-font-size">Procedures</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>入退社手続き資格取得</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>算定基礎年度更新</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>各種給付金の申請</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":337,"sizeSlug":"full","linkDestination":"none","className":"is-style-vk-image-border vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-sm\u002d\u002dmargin-bottom"} -->
+<figure class="wp-block-image size-full is-style-vk-image-border vk_block-margin-0--margin-top vk_block-margin-sm--margin-bottom"><img src="http://miyabi-sr.jp/wp-content/uploads/service-payroll.webp" alt="給与計算代行" class="wp-image-337"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"className":"mb-0 is-style-vk-heading-plain"} -->
+<h4 class="wp-block-heading has-text-align-center mb-0 is-style-vk-heading-plain">給与計算代行</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"vk-color-primary","className":"vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-xs\u002d\u002dmargin-bottom","fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-top vk_block-margin-xs--margin-bottom has-vk-color-primary-color has-text-color has-small-font-size">Payroll</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>毎月の給与計算明細作成</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>賞与計算</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>住民税の特別徴収対応</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:image {"id":335,"sizeSlug":"full","linkDestination":"none","className":"is-style-vk-image-border vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-sm\u002d\u002dmargin-bottom"} -->
+<figure class="wp-block-image size-full is-style-vk-image-border vk_block-margin-0--margin-top vk_block-margin-sm--margin-bottom"><img src="http://miyabi-sr.jp/wp-content/uploads/service-consulting.webp" alt="人事労務支援" class="wp-image-335"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:group -->
+<div class="wp-block-group"><!-- wp:heading {"textAlign":"center","level":4,"className":"mb-0 is-style-vk-heading-plain"} -->
+<h4 class="wp-block-heading has-text-align-center mb-0 is-style-vk-heading-plain">人事労務支援</h4>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","textColor":"vk-color-primary","className":"vk_block-margin-0\u002d\u002dmargin-top vk_block-margin-xs\u002d\u002dmargin-bottom","fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-top vk_block-margin-xs--margin-bottom has-vk-color-primary-color has-text-color has-small-font-size">Consulting</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>就業規則の作成変更</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>助成金申請サポート</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>労務トラブル法改正対応</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:vk-blocks/spacer {"spaceSize":"large"} -->
+<div class="wp-block-vk-blocks-spacer vk_spacer vk_spacer-type-margin-top"><div class="vk_block-margin-lg--margin-top"></div></div>
+<!-- /wp:vk-blocks/spacer --></div>
+<!-- /wp:group -->

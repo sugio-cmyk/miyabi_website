@@ -1,0 +1,163 @@
+﻿<!-- ========================================
+[Template A] チェックリスト／手順型
+用途：採用退職加入判定期限など
+======================================== -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group">
+    <!-- wp:group {"style":{"border":{"width":"2px","color":"#1a365d"},"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#1a365d;border-width:2px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+        <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"20px","fontWeight":"700"},"spacing":{"margin":{"bottom":"20px"}}}} -->
+        <h3 class="wp-block-heading has-text-align-center" style="margin-bottom:20px;font-size:20px;font-weight:700">この記事の結論</h3>
+        <!-- /wp:heading -->
+
+        <!-- wp:list {"className":"is-style-default"} -->
+        <ul class="wp-block-list is-style-default">
+            <!-- wp:list-item -->
+            <li><strong>結論：</strong>[結論を1行で入力]</li>
+            <!-- /wp:list-item -->
+            <!-- wp:list-item -->
+            <li>ポイント1：[理由]</li>
+            <!-- /wp:list-item -->
+            <!-- wp:list-item -->
+            <li>ポイント2：[対象条件]</li>
+            <!-- /wp:list-item -->
+        </ul>
+        <!-- /wp:list -->
+    </div>
+    <!-- /wp:group -->
+
+    <!-- wp:spacer {"height":"40px"} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">1. まず確認：対象となるケース</h2>
+    <!-- /wp:heading -->
+    <!-- wp:paragraph -->
+    <p>以下の条件に当てはまる場合の手続きについて解説します。</p>
+    <!-- /wp:paragraph -->
+    <!-- wp:list {"className":"is-style-default"} -->
+    <ul class="wp-block-list is-style-default">
+        <!-- wp:list-item -->
+        <li>条件A：[条件詳細]</li>
+        <!-- /wp:list-item -->
+        <!-- wp:list-item -->
+        <li>条件B：[条件詳細]</li>
+        <!-- /wp:list-item -->
+    </ul>
+    <!-- /wp:list -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">2. 必要書類情報チェックリスト</h2>
+    <!-- /wp:heading -->
+    <!-- wp:table {"className":"is-style-stripes"} -->
+    <figure class="wp-block-table is-style-stripes">
+        <table>
+            <thead>
+                <tr>
+                    <th>チェック</th>
+                    <th>やること書類</th>
+                    <th>期限目安</th>
+                    <th>備考</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td></td>
+                    <td>[項目名]</td>
+                    <td>[日数]</td>
+                    <td>[担当者など]</td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>[項目名]</td>
+                    <td>[日数]</td>
+                    <td>[担当者など]</td>
+                </tr>
+            </tbody>
+        </table>
+    </figure>
+    <!-- /wp:table -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">3. 手順の流れ</h2>
+    <!-- /wp:heading -->
+
+    <!-- wp:heading {"level":3} -->
+    <h3 class="wp-block-heading">Step 1. [手順名]</h3>
+    <!-- /wp:heading -->
+    <!-- wp:paragraph -->
+    <p>[手順の説明文（2行程度）]</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading {"level":3} -->
+    <h3 class="wp-block-heading">Step 2. [手順名]</h3>
+    <!-- /wp:heading -->
+    <!-- wp:paragraph -->
+    <p>[手順の説明文（2行程度）]</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading {"level":3} -->
+    <h3 class="wp-block-heading">Step 3. [手順名]</h3>
+    <!-- /wp:heading -->
+    <!-- wp:paragraph -->
+    <p>[手順の説明文（2行程度）]</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:heading {"level":3} -->
+    <h3 class="wp-block-heading">Step 4. [手順名]</h3>
+    <!-- /wp:heading -->
+    <!-- wp:paragraph -->
+    <p>[手順の説明文（2行程度）]</p>
+    <!-- /wp:paragraph -->
+
+    <!-- wp:spacer {"height":"30px"} -->
+    <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+    <!-- wp:group {"style":{"border":{"width":"1px","color":"#e11d48"},"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"backgroundColor":"pale-pink","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-pale-pink-background-color has-background has-border-color" style="border-width:1px;border-color:#e11d48;border-style:solid;padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px">
+        <!-- wp:paragraph {"style":{"typography":{"fontWeight":"700"},"color":{"text":"#e11d48"}}} -->
+        <p class="has-text-color" style="color:#e11d48;font-weight:700"><i class="fas fa-exclamation-triangle"></i> ここに注意！</p>
+        <!-- /wp:paragraph -->
+        <!-- wp:paragraph -->
+        <p>[よくある間違いや、遅れるとまずいリスクなどを記載]</p>
+        <!-- /wp:paragraph -->
+    </div>
+    <!-- /wp:group -->
+    <!-- wp:spacer {"height":"30px"} -->
+    <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">4. よくある質問</h2>
+    <!-- /wp:heading -->
+    
+    <!-- wp:vk-blocks/faq2 -->
+    <div class="wp-block-vk-blocks-faq2 vk_faq  ">
+        <div class="vk_faq-header"></div>
+        <dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+            <dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+                <p>Q. [質問内容]</p>
+                <!-- /wp:paragraph -->
+            </dt>
+            <!-- /wp:vk-blocks/faq2-q -->
+            <!-- wp:vk-blocks/faq2-a -->
+            <dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+                <p>A. [回答内容]</p>
+                <!-- /wp:paragraph -->
+            </dd>
+            <!-- /wp:vk-blocks/faq2-a -->
+        </dl>
+        <div class="vk_faq-footer"></div>
+    </div>
+    <!-- /wp:vk-blocks/faq2 -->
+
+    <!-- wp:paragraph -->
+    <p>以上が手続きの流れです。判断が難しい場合や、期限が迫っている場合は、専門家への相談もご検討ください。（まずは現状の整理からでも可能です。）</p>
+    <!-- /wp:paragraph -->
+
+</div>
+<!-- /wp:group -->
+
+

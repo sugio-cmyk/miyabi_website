@@ -1,0 +1,70 @@
+/* ============================================
+   Miyabi SR - WordPress 追加CSS
+   
+   設定場所: 外観 → カスタマイズ → 追加CSS
+   
+   方針: 
+   - テーマ標準で対応できない最小限のスタイルのみ
+   - フォント設定・UX向上・投稿記事専用スタイル
+   ============================================ */
+
+
+/* --------------------------------------------
+   1. フォント設定
+   
+   理由: Lightning テーマの標準フォントでは
+         日本語の見栄えが不十分なため
+   -------------------------------------------- */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Noto+Serif+JP:wght@400;600;700&display=swap');
+
+/* 本文: ゴシック体 */
+body {
+    font-family: 'Noto Sans JP', sans-serif;
+    -webkit-font-smoothing: antialiased;  /* Mac/iOS での表示を滑らかに */
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* 見出し: 明朝体（信頼感・専門性を演出） */
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Noto Serif JP', serif;
+}
+
+
+/* --------------------------------------------
+   2. 基本UX設定
+   -------------------------------------------- */
+
+/* スムーススクロール: ページ内リンクでなめらかに移動 */
+html {
+    scroll-behavior: smooth;
+}
+
+
+/* --------------------------------------------
+   3. 投稿記事専用スタイル
+   
+   対象: block_generator.py で生成した表ブロック
+   クラス: .post-table（投稿記事内の表にのみ適用）
+   スタイル: is-style-regular + 1px黒枠線
+   -------------------------------------------- */
+
+/* 表のヘッダー背景色（プライマリカラー） */
+.wp-block-table.post-table thead th {
+    background-color: #1a365d;
+    color: #fff;
+}
+
+
+/* --------------------------------------------
+   4. Lightning テーマ調整
+   -------------------------------------------- */
+
+/* 投稿者名（by admin等）を非表示 */
+.entry-meta-item-author {
+    display: none !important;
+}

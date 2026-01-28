@@ -1,0 +1,105 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp","id":340,"alt":"香川県の瀬戸大橋","dimRatio":50,"overlayColor":"vk-color-primary","isUserOverlayColor":true,"minHeightUnit":"px","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:5rem;padding-bottom:5rem"><img class="wp-block-cover__image-background wp-image-340 size-full" alt="香川県の瀬戸大橋" src="https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-vk-color-primary-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"letterSpacing":"0.2rem"},"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-bottom has-text-color has-small-font-size" style="color:#ffffff;letter-spacing:0.2rem">OFFICE</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"className":"vk_block-margin-md\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h1 class="wp-block-heading has-text-align-center vk_block-margin-md--margin-bottom has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">事務所概要</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-text-color has-regular-font-size" style="color:#ffffff;line-height:1.8">「人」を大切にする会社づくりを、全力でサポートします</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">代表挨拶</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"className":"is-style-vk-group-shadow","style":{"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}},"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-white-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"center","width":"30%"} -->
+<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:30%"><!-- wp:image {"id":315,"scale":"contain","sizeSlug":"medium","linkDestination":"none","align":"center","className":"is-style-vk-image-rounded","style":{"border":{"radius":"1rem"}}} -->
+<figure class="wp-block-image aligncenter size-medium has-custom-border is-style-vk-image-rounded"><img src="https://miyabi-sr.jp/wp-content/uploads/profile-200x300.jpg" alt="代表の写真" class="wp-image-315" style="border-radius:1rem;object-fit:contain"/></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|30"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="line-height:1.8">みやび社会保険労務士事務所のホームページをご覧いただき、誠にありがとうございます。代表の杉尾雅人と申します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="line-height:1.8">現代の企業経営において、「人」に関する課題は尽きることがありません。採用難、働き方改革への対応、労務トラブル...。これらは単なる法律問題ではなく、会社の未来を左右する経営課題です。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-regular-font-size" style="line-height:1.8">私は、単に手続きを代行するだけの社労士ではなく、経営者様の良き相談相手として、共に悩み、共に解決策を考えるパートナーでありたいと考えています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"align":"right","style":{"typography":{"fontWeight":"600","fontStyle":"italic"}},"fontSize":"regular"} -->
+<p class="has-text-align-right has-regular-font-size" style="font-style:italic;font-weight:600">みやび社会保険労務士事務所 代表<br>社会保険労務士　杉尾 雅人</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">事務所概要</h2>
+<!-- /wp:heading -->
+
+<!-- wp:table {"hasFixedLayout":false,"className":"is-style-stripes"} -->
+<figure class="wp-block-table is-style-stripes"><table><tbody><tr><td><strong>事務所名</strong></td><td>みやび社会保険労務士事務所</td></tr><tr><td><strong>代表者</strong></td><td>社会保険労務士　杉尾 雅人</td></tr><tr><td><strong>所在地</strong></td><td>〒762-0023<br>香川県坂出市加茂町556番地16</td></tr><tr><td><strong>営業時間</strong></td><td>平日 9:00〜17:00</td></tr><tr><td><strong>定休日</strong></td><td>土曜・日曜・祝日</td></tr></tbody></table></figure>
+<!-- /wp:table --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-huge-font-size" style="font-style:normal;font-weight:700">対応エリア</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-bottom has-regular-font-size" style="line-height:1.8"><strong>坂出市、高松市、丸亀市</strong>を中心に<strong>香川県全域</strong>に対応しております。<br><strong>オンライン</strong>でのご相談は<strong>全国対応可能</strong>ですので、遠方の企業様もお気軽にお問い合わせください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"1rem","width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-map-marker-alt\u0022\u003e\u003c/i\u003e","iconSize":56,"iconAlign":"center","iconType":"2","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center is-style-noline"><div class="vk_icon_border has-text-color has-vk-color-primary-color" style="width:calc(56px + 44px);height:calc(56px + 44px)"><i style="font-size:56px" class="fas vk_icon_font fa-map-marker-alt"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">香川県全域</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="line-height:1.8">坂出市を拠点に、高松市・丸亀市など県内全域へ訪問対応いたします。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"1rem","width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-laptop\u0022\u003e\u003c/i\u003e","iconSize":56,"iconAlign":"center","iconType":"2","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center is-style-noline"><div class="vk_icon_border has-text-color has-vk-color-primary-color" style="width:calc(56px + 44px);height:calc(56px + 44px)"><i style="font-size:56px" class="fas vk_icon_font fa-laptop"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">オンライン全国対応</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-small-font-size" style="line-height:1.8">Zoomなどを使ったオンライン相談で、全国どこからでもご相談可能です。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->

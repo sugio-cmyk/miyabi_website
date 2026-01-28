@@ -1,0 +1,57 @@
+<p><!-- ======================================== セクション: CTA（お問い合わせ誘導） ======================================== --></p>
+
+<!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"3rem","right":"3rem"},"margin":{"top":"var:preset|spacing|40","bottom":"0"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}},"backgroundColor":"vk-color-primary","layout":{"type":"constrained"}} -->
+<div class="wp-block-group is-style-default has-vk-color-primary-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;margin-top:var(--wp--preset--spacing--40);margin-bottom:0;padding-top:1rem;padding-right:3rem;padding-bottom:1rem;padding-left:3rem"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">人事・労務の"困った"を専門家が解決</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-md\u002d\u002dmargin-bottom","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center vk_block-margin-md--margin-bottom has-text-color has-regular-font-size" style="color:#ffffff;line-height:1.8">手続きの負担、法改正への対応、働き方の悩み——<br>どんな小さなことでも、まずはお気軽にご相談ください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"className":"vk_block-margin-md\u002d\u002dmargin-bottom","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group vk_block-margin-md--margin-bottom"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:columns {"verticalAlignment":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom"} -->
+<div class="wp-block-columns are-vertically-aligned-center vk_block-margin-sm--margin-bottom"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fa-solid fa-circle-check\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#ffffff"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#ffffff;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fa-solid vk_icon_font fa-circle-check"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#ffffff">初回相談無料</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fa-solid fa-bolt\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#ffffff"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#ffffff;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fa-solid vk_icon_font fa-bolt"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#ffffff">最短翌営業日対応</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","verticalAlignment":"top"}} -->
+<div class="wp-block-group"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fa-solid fa-video\u0022\u003e\u003c/i\u003e","iconSize":16,"iconMargin":6,"iconType":"2","iconColor":"#ffffff"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame is-style-noline"><div class="vk_icon_border has-text-color" style="color:#ffffff;width:calc(16px + 12px);height:calc(16px + 12px)"><i style="font-size:16px" class="fa-solid vk_icon_font fa-video"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"style":{"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-color has-small-font-size" style="color:#ffffff">オンライン対応可</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-center has-text-color has-small-font-size" style="color:#ffffff;line-height:1.8">※ お問い合わせフォームは24時間受付</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->

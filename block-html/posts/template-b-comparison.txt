@@ -1,0 +1,179 @@
+﻿<!-- ========================================
+[Template B] 比較判断型
+用途：社労士委託の意義、顧問vsスポットなど
+======================================== -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group">
+    <!-- wp:group {"style":{"border":{"width":"2px","color":"#1a365d"},"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-border-color has-white-background-color has-background" style="border-color:#1a365d;border-width:2px;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+        <!-- wp:heading {"textAlign":"center","level":3,"style":{"typography":{"fontSize":"20px","fontWeight":"700"},"spacing":{"margin":{"bottom":"20px"}}}} -->
+        <h3 class="wp-block-heading has-text-align-center" style="margin-bottom:20px;font-size:20px;font-weight:700">この記事の結論</h3>
+        <!-- /wp:heading -->
+        <!-- wp:list {"className":"is-style-default"} -->
+        <ul class="wp-block-list is-style-default">
+            <!-- wp:list-item -->
+            <li><strong>結論：</strong>[結論を1行で入力]</li>
+            <!-- /wp:list-item -->
+            <!-- wp:list-item -->
+            <li>理由：[理由を簡潔に]</li>
+            <!-- /wp:list-item -->
+            <!-- wp:list-item -->
+            <li>こんな会社に向いています：[対象]</li>
+            <!-- /wp:list-item -->
+        </ul>
+        <!-- /wp:list -->
+    </div>
+    <!-- /wp:group -->
+
+    <!-- wp:spacer {"height":"40px"} -->
+    <div style="height:40px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">1. よくある悩み課題</h2>
+    <!-- /wp:heading -->
+    <!-- wp:columns -->
+    <div class="wp-block-columns">
+        <!-- wp:column -->
+        <div class="wp-block-column">
+            <!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"16px"}}} -->
+            <h4 class="wp-block-heading has-text-align-center" style="font-size:16px">[悩みA]</h4>
+            <!-- /wp:heading -->
+            <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px"}}} -->
+            <p class="has-text-align-center" style="font-size:14px">[説明文<br>2行程度]</p>
+            <!-- /wp:paragraph -->
+        </div>
+        <!-- /wp:column -->
+        <!-- wp:column -->
+        <div class="wp-block-column">
+            <!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"16px"}}} -->
+            <h4 class="wp-block-heading has-text-align-center" style="font-size:16px">[悩みB]</h4>
+            <!-- /wp:heading -->
+            <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px"}}} -->
+            <p class="has-text-align-center" style="font-size:14px">[説明文<br>2行程度]</p>
+            <!-- /wp:paragraph -->
+        </div>
+        <!-- /wp:column -->
+        <!-- wp:column -->
+        <div class="wp-block-column">
+            <!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"16px"}}} -->
+            <h4 class="wp-block-heading has-text-align-center" style="font-size:16px">[悩みC]</h4>
+            <!-- /wp:heading -->
+            <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px"}}} -->
+            <p class="has-text-align-center" style="font-size:14px">[説明文<br>2行程度]</p>
+            <!-- /wp:paragraph -->
+        </div>
+        <!-- /wp:column -->
+    </div>
+    <!-- /wp:columns -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">2. 判断基準：どちらを選ぶべきか</h2>
+    <!-- /wp:heading -->
+    <!-- wp:table -->
+    <figure class="wp-block-table">
+        <table>
+            <thead>
+                <tr>
+                    <th class="has-text-align-center">項目</th>
+                    <th class="has-text-align-center">選択肢A</th>
+                    <th class="has-text-align-center">選択肢B</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td class="has-text-align-center">[比較項目]</td>
+                    <td class="has-text-align-center"></td>
+                    <td class="has-text-align-center"></td>
+                </tr>
+                <tr>
+                    <td class="has-text-align-center">[比較項目]</td>
+                    <td class="has-text-align-center"></td>
+                    <td class="has-text-align-center"></td>
+                </tr>
+            </tbody>
+        </table>
+    </figure>
+    <!-- /wp:table -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">3. 具体的なケーススタディ</h2>
+    <!-- /wp:heading -->
+    <!-- wp:group {"style":{"spacing":{"padding":{"top":"20px","right":"20px","bottom":"20px","left":"20px"}}},"backgroundColor":"light-gray","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-light-gray-background-color has-background" style="padding-top:20px;padding-right:20px;padding-bottom:20px;padding-left:20px">
+        <!-- wp:heading {"level":4,"style":{"typography":{"fontSize":"16px"}}} -->
+        <h4 class="wp-block-heading" style="font-size:16px"><i class="far fa-lightbulb"></i> ケース：[会社の状況]</h4>
+        <!-- /wp:heading -->
+        <!-- wp:paragraph {"style":{"typography":{"fontSize":"14px"}}} -->
+        <p style="font-size:14px">[起きたこと解決策結果を2〜3行で記述]</p>
+        <!-- /wp:paragraph -->
+    </div>
+    <!-- /wp:group -->
+
+    <!-- wp:spacer {"height":"30px"} -->
+    <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+    <!-- wp:group {"style":{"border":{"width":"1px","color":"#e11d48"},"spacing":{"padding":{"top":"25px","right":"25px","bottom":"25px","left":"25px"}}},"backgroundColor":"pale-pink","layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-pale-pink-background-color has-background has-border-color" style="border-width:1px;border-color:#e11d48;border-style:solid;padding-top:25px;padding-right:25px;padding-bottom:25px;padding-left:25px">
+        <!-- wp:paragraph {"style":{"typography":{"fontWeight":"700"},"color":{"text":"#e11d48"}}} -->
+        <p class="has-text-color" style="color:#e11d48;font-weight:700"><i class="fas fa-exclamation-triangle"></i> よくある誤解</p>
+        <!-- /wp:paragraph -->
+        <!-- wp:paragraph -->
+        <p>[誤解内容と正しい理解を記述]</p>
+        <!-- /wp:paragraph -->
+    </div>
+    <!-- /wp:group -->
+    <!-- wp:spacer {"height":"30px"} -->
+    <div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+    <!-- /wp:spacer -->
+
+    <!-- wp:group {"style":{"border":{"width":"1px","style":"dashed","color":"#1a365d"},"spacing":{"padding":{"top":"30px","right":"30px","bottom":"30px","left":"30px"}}},"layout":{"type":"constrained"}} -->
+    <div class="wp-block-group has-border-color" style="border-width:1px;border-color:#1a365d;border-style:dashed;padding-top:30px;padding-right:30px;padding-bottom:30px;padding-left:30px">
+        <!-- wp:heading {"textAlign":"center","level":4,"style":{"typography":{"fontSize":"18px"}}} -->
+        <h4 class="wp-block-heading has-text-align-center" style="font-size:18px">続きの記事はこちら</h4>
+        <!-- /wp:heading -->
+        <!-- wp:paragraph {"align":"center","style":{"typography":{"fontSize":"14px"},"spacing":{"margin":{"bottom":"20px"}}}} -->
+        <p class="has-text-align-center" style="font-size:14px;margin-bottom:20px">[後編のタイトルや、何が分かるかを1行で記述]</p>
+        <!-- /wp:paragraph -->
+        <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"center"}} -->
+        <div class="wp-block-buttons">
+            <!-- wp:button {"width":50,"style":{"border":{"radius":"4px"}},"className":"is-style-outline"} -->
+            <div class="wp-block-button is-style-outline width-50"><a class="wp-block-button__link wp-element-button" style="border-radius:4px">記事を読む <i class="fas fa-arrow-right"></i></a></div>
+            <!-- /wp:button -->
+        </div>
+        <!-- /wp:buttons -->
+    </div>
+    <!-- /wp:group -->
+
+    <!-- wp:heading -->
+    <h2 class="wp-block-heading">4. よくある質問</h2>
+    <!-- /wp:heading -->
+    <!-- wp:vk-blocks/faq2 -->
+    <div class="wp-block-vk-blocks-faq2 vk_faq  ">
+        <div class="vk_faq-header"></div>
+        <dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+            <dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+                <p>[質問]</p>
+                <!-- /wp:paragraph -->
+            </dt>
+            <!-- /wp:vk-blocks/faq2-q -->
+            <!-- wp:vk-blocks/faq2-a -->
+            <dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+                <p>[回答]</p>
+                <!-- /wp:paragraph -->
+            </dd>
+            <!-- /wp:vk-blocks/faq2-a -->
+        </dl>
+        <div class="vk_faq-footer"></div>
+    </div>
+    <!-- /wp:vk-blocks/faq2 -->
+
+    <!-- wp:paragraph -->
+    <p>まずは現状の課題を整理することが、解決への第一歩です。どちらが良いか迷われる場合は、お気軽にご相談ください。</p>
+    <!-- /wp:paragraph -->
+
+</div>
+<!-- /wp:group -->
+
+

@@ -1,0 +1,210 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp","id":340,"alt":"「香川県の瀬戸大橋」","dimRatio":60,"overlayColor":"vk-color-primary","isUserOverlayColor":true,"align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:5rem;padding-bottom:5rem"><img class="wp-block-cover__image-background wp-image-340" alt="「香川県の瀬戸大橋」" src="https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-vk-color-primary-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"letterSpacing":"0.2rem"},"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-bottom has-text-color has-small-font-size" style="color:#ffffff;letter-spacing:0.2rem">FAQ</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h1 class="wp-block-heading has-text-align-center has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">よくある質問</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"}}} -->
+<p class="has-text-align-center has-text-color" style="color:#ffffff">
+                お客様からよくいただくご質問をまとめました。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<p><!-- ========================================
+FAQコンテンツ
+======================================= --></p>
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"className":"is-style-vk-heading-01","style":{"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 has-text-color has-large-font-size" style="color:#1a365d">社会保険労務士全般</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>社会保険労務士に依頼するメリットは何ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>届出や申請のミスを防ぎ、経営者様が本業に専念できる時間を確保できます。また、法改正にも対応いたしますので、知らないうちに法令違反になっていたというリスクを避けることができます。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>顧問契約の費用はどのくらいですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>当事務所では、顧問契約と給与計算のセットプランで月額2万円から承っております。従業員50名様の場合は月額7万5千円程度となります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>顧問契約とスポット契約の違いは何ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>顧問契約は、社会保険等の手続きを件数に関わらず毎月定額でお任せいただけるプランです。スポット契約は1件ごとに料金が発生いたします。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"className":"is-style-vk-heading-01","style":{"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 has-text-color has-large-font-size" style="color:#1a365d">社会保険・労働保険手続き</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>従業員を採用したら何日以内に届出が必要ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>雇用保険は採用日の属する月の翌月10日まで、健康保険・厚生年金保険は採用日から5日以内に届出が必要です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>パートやアルバイトも社会保険に加入させる必要がありますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>週20時間以上の勤務で、月額賃金が8万8千円以上など、一定の条件を満たす場合は加入が義務付けられています。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"className":"is-style-vk-heading-01","style":{"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 has-text-color has-large-font-size" style="color:#1a365d">給与計算</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>給与計算のみを依頼することはできますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>当事務所では給与計算のみのご依頼は承っておりません。顧問契約とセットでのご提供となります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>年末調整は依頼できますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>年末調整は税理士の業務範囲となるため対応しておりませんが、提携税理士をご紹介可能です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"className":"is-style-vk-heading-01","style":{"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 has-text-color has-large-font-size" style="color:#1a365d">就業規則</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>就業規則は何人から作成義務がありますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>常時10人以上の従業員がいる事業所には、就業規則の作成と届出が法律で義務付けられています。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>就業規則の作成費用はどのくらいですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>当事務所では10万円から承っております。会社の規模や業種によって異なります。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"className":"is-style-vk-heading-01","style":{"color":{"text":"#1a365d"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading is-style-vk-heading-01 has-text-color has-large-font-size" style="color:#1a365d">助成金</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch]"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph -->
+<p>助成金は誰でも受給できますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph -->
+<p>労働保険に加入していることなど、いくつかの要件がございます。まずは受給の可能性について診断されることをお勧めいたします。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"align":"center","className":"vk_block-margin-sm\u002d\u002dmargin-top","style":{"color":{"text":"#666666"},"fontSize":"14px"}} -->
+<p class="has-text-align-center vk_block-margin-sm--margin-top has-text-color" style="color:#666666">※記載の料金はすべて税別表記です。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"vk-color-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-vk-color-light-background-color has-background" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">その他のご質問はお気軽にどうぞ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center"} -->
+<p class="has-text-align-center">こちらにないご質問も、お電話やフォームからお気軽にお問い合わせください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group"><!-- wp:block {"ref":591} /--></div>
+<!-- /wp:group --></div>
+<!-- /wp:group -->

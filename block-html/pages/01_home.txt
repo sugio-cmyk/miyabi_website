@@ -1,0 +1,283 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp","id":340,"alt":"香川県の瀬戸大橋","dimRatio":50,"overlayColor":"vk-color-primary","isUserOverlayColor":true,"minHeightUnit":"px","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:5rem;padding-bottom:5rem"><img class="wp-block-cover__image-background wp-image-340 size-full" alt="香川県の瀬戸大橋" src="https://miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-vk-color-primary-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center","level":1,"className":"vk_block-margin-md\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h1 class="wp-block-heading has-text-align-center vk_block-margin-md--margin-bottom has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">愛される会社へ、寄り添いながら。</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-text-color has-regular-font-size" style="color:#ffffff;line-height:1.8">みやび社会保険労務士事務所は、人を大切にする会社づくりをお手伝いします。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-default" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-user-tie\u0022\u003e\u003c/i\u003e","iconSize":48,"iconAlign":"center","iconColor":"vk-color-primary","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom"} -->
+<div class="wp-block-vk-blocks-icon vk_icon vk_block-margin-xxs--margin-bottom"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(48px + 44px);height:calc(48px + 44px)"><i style="font-size:48px" class="fas vk_icon_font fa-user-tie"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">国家資格者が対応</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-default" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-comments\u0022\u003e\u003c/i\u003e","iconSize":48,"iconAlign":"center","iconColor":"vk-color-primary","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom"} -->
+<div class="wp-block-vk-blocks-icon vk_icon vk_block-margin-xxs--margin-bottom"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(48px + 44px);height:calc(48px + 44px)"><i style="font-size:48px" class="fas vk_icon_font fa-comments"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">初回相談無料</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-default" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-bolt\u0022\u003e\u003c/i\u003e","iconSize":48,"iconAlign":"center","iconColor":"vk-color-primary","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom"} -->
+<div class="wp-block-vk-blocks-icon vk_icon vk_block-margin-xxs--margin-bottom"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(48px + 44px);height:calc(48px + 44px)"><i style="font-size:48px" class="fas vk_icon_font fa-bolt"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">スピード対応</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-default","style":{"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-default" style="padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-building\u0022\u003e\u003c/i\u003e","iconSize":48,"iconAlign":"center","iconColor":"vk-color-primary","className":"vk_block-margin-xxs\u002d\u002dmargin-bottom"} -->
+<div class="wp-block-vk-blocks-icon vk_icon vk_block-margin-xxs--margin-bottom"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(48px + 44px);height:calc(48px + 44px)"><i style="font-size:48px" class="fas vk_icon_font fa-building"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">中小企業専門</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"0","margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"spacing":{"margin":{"bottom":"1rem"}}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size" style="margin-bottom:1rem;font-style:normal;font-weight:700">選ばれる理由</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"2rem"}}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="margin-bottom:2rem">香川県の中小企業に選ばれる、3つの理由をご紹介します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column {"verticalAlignment":"top","width":""} -->
+<div class="wp-block-column is-vertically-aligned-top"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-handshake\u0022\u003e\u003c/i\u003e","iconSize":56,"iconAlign":"center","iconType":"2","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center is-style-noline"><div class="vk_icon_border has-text-color has-vk-color-primary-color" style="width:calc(56px + 44px);height:calc(56px + 44px)"><i style="font-size:56px" class="fas vk_icon_font fa-handshake"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">寄り添うサポート</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-left has-small-font-size" style="line-height:1.8">専門用語を使わず、分かりやすくご説明。経営者様の立場に立った、気軽に相談できる雰囲気を大切にしています。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow is-layout-flex is-vertical","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"nowrap"}} -->
+<div class="wp-block-group is-style-vk-group-shadow is-layout-flex is-vertical has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-map-marker-alt\u0022\u003e\u003c/i\u003e","iconSize":56,"iconAlign":"center","iconType":"2","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center is-style-noline"><div class="vk_icon_border has-text-color has-vk-color-primary-color" style="width:calc(56px + 44px);height:calc(56px + 44px)"><i style="font-size:56px" class="fas vk_icon_font fa-map-marker-alt"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">地域密着</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-left has-small-font-size" style="line-height:1.8">香川県の中小企業に特化。坂出市を中心に、地域の事情を理解したきめ細やかな対応をお約束します。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"width":""} -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"},"width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center","flexWrap":"wrap"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-laptop\u0022\u003e\u003c/i\u003e","iconSize":56,"iconAlign":"center","iconType":"2","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center is-style-noline"><div class="vk_icon_border has-text-color has-vk-color-primary-color" style="width:calc(56px + 44px);height:calc(56px + 44px)"><i style="font-size:56px" class="fas vk_icon_font fa-laptop"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">オンライン対応</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"left","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-text-align-left has-small-font-size" style="line-height:1.8">Zoomなどのオンライン相談にも対応。ご来所いただかなくても、お忙しい経営者様の時間を節約できます。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"spacing":{"margin":{"bottom":"1rem"}}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size" style="margin-bottom:1rem;font-style:normal;font-weight:700">サービス内容</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"2rem"}}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="margin-bottom:2rem">経営者様の「困った」を解決する、3つのサービスをご用意しています。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"1rem","width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:image {"id":336,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-vk-image-shadow","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image size-full has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-insurance.webp" alt="社会保険手続きのイメージ" class="wp-image-336" style="border-radius:14px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">社会保険・労働保険手続き</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-small-font-size" style="line-height:1.8">入退社手続き、算定基礎届、年度更新など、面倒な届出業務を専門家が正確・迅速に代行します。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"1rem","width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:image {"id":337,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-vk-image-shadow","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image size-full has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-payroll.webp" alt="給与計算代行のイメージ" class="wp-image-337" style="border-radius:14px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">給与計算代行</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-small-font-size" style="line-height:1.8">月例給与・賞与計算から明細作成まで。担当者様の負担を軽減し、本業に集中できる環境を整えます。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"},"blockGap":"var:preset|spacing|30"},"border":{"radius":"1rem","width":"1px","style":"solid"},"dimensions":{"minHeight":"100%"}},"backgroundColor":"white","borderColor":"cyan-bluish-gray","layout":{"type":"flex","orientation":"vertical","justifyContent":"center"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-white-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;min-height:100%;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:image {"id":335,"aspectRatio":"16/9","scale":"cover","sizeSlug":"full","linkDestination":"none","className":"is-style-vk-image-shadow","style":{"border":{"radius":"14px"}}} -->
+<figure class="wp-block-image size-full has-custom-border is-style-vk-image-shadow"><img src="https://miyabi-sr.jp/wp-content/uploads/service-consulting-e1768030527431.webp" alt="労務相談・コンサルティングのイメージ" class="wp-image-335" style="border-radius:14px;aspect-ratio:16/9;object-fit:cover"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"textAlign":"center","level":3,"className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading has-text-align-center vk_block-margin-0--margin-bottom has-large-font-size" style="font-style:normal;font-weight:600">人事労務支援</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}},"fontSize":"small"} -->
+<p class="has-small-font-size" style="line-height:1.8">就業規則の作成・変更、助成金申請、日々の労務相談など、人事の課題をトータルでサポートします。</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns -->
+
+<!-- wp:spacer {"height":"1rem","width":"0px"} -->
+<div style="height:1rem;width:0px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:vk-blocks/button {"buttonUrl":"/services/","buttonSize":"sm","buttonEffect":"none","buttonColor":"custom","buttonColorCustom":"vk-color-primary","buttonAlign":"center","fontAwesomeIconAfter":"\u003ci class=\u0022fa-regular fa-circle-right\u0022\u003e\u003c/i\u003e","blockId":"9a88cd4b-c036-48df-bd98-6445cc1b6fa5"} -->
+<div class="wp-block-vk-blocks-button vk_button vk_button-color-custom vk_button-align-center is-style-none"><a href="/services/" class="vk_button_link btn has-background has-vk-color-primary-background-color btn-sm" role="button" aria-pressed="true" rel="noopener"><div class="vk_button_link_caption"><span class="vk_button_link_txt">サービス一覧を見る</span><i class="fa-regular fa-circle-right vk_button_link_after"></i></div></a></div>
+<!-- /wp:vk-blocks/button --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"spacing":{"margin":{"bottom":"1rem"}}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size" style="margin-bottom:1rem;font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"spacing":{"margin":{"bottom":"1rem"}}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="margin-bottom:1rem">お問い合わせの前にご確認ください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">相談は無料ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">はい、初回のご相談は無料です。お気軽にお問い合わせください。ご相談内容をお伺いした上で、最適なサポート内容とお見積もりをご提案いたします。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">どのような企業が対象ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">香川県内の中小企業様を中心にサポートしております。業種は問いません。社会保険・労働保険の手続きや給与計算でお困りの企業様はお気軽にご相談ください。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">オンラインでの相談は可能ですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">はい、Zoomなどのビデオ通話を使ったオンライン相談に対応しております。ご来所いただく必要がないため、お忙しい経営者様にもご好評いただいております。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">契約前に見積もりはもらえますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">はい、ご契約前に必ずお見積もりをお出しします。ご依頼内容や従業員数などをヒアリングの上、明確な料金をご提示いたしますのでご安心ください。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:spacer {"height":"30px"} -->
+<div style="height:30px" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:vk-blocks/button {"buttonUrl":"/faq/","buttonSize":"sm","buttonEffect":"none","buttonColor":"custom","buttonColorCustom":"vk-color-primary","buttonAlign":"center","fontAwesomeIconAfter":"\u003ci class=\u0022fa-regular fa-circle-right\u0022\u003e\u003c/i\u003e","blockId":"369522af-d72d-4acb-a269-3deee029e40c"} -->
+<div class="wp-block-vk-blocks-button vk_button vk_button-color-custom vk_button-align-center is-style-none"><a href="/faq/" class="vk_button_link btn has-background has-vk-color-primary-background-color btn-sm" role="button" aria-pressed="true" rel="noopener"><div class="vk_button_link_caption"><span class="vk_button_link_txt">よくある質問をもっと見る</span><i class="fa-regular fa-circle-right vk_button_link_after"></i></div></a></div>
+<!-- /wp:vk-blocks/button --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"backgroundColor":"white","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-white-background-color has-background" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:heading {"textAlign":"center","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"spacing":{"margin":{"bottom":"2rem"}}},"fontSize":"huge"} -->
+<h2 class="wp-block-heading has-text-align-center has-huge-font-size" style="margin-bottom:2rem;font-style:normal;font-weight:700">お知らせ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:group {"style":{"spacing":{"padding":{"top":"1rem","right":"2rem","bottom":"1rem","left":"2rem"}},"border":{"radius":{"topLeft":"1rem","topRight":"1rem","bottomLeft":"1rem","bottomRight":"1rem"}}},"backgroundColor":"vk-color-light","layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-vk-color-light-background-color has-background" style="border-top-left-radius:1rem;border-top-right-radius:1rem;border-bottom-left-radius:1rem;border-bottom-right-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:latest-posts {"displayPostDate":true} /--></div>
+<!-- /wp:group -->
+
+<!-- wp:spacer {"height":"1rem"} -->
+<div style="height:1rem" aria-hidden="true" class="wp-block-spacer"></div>
+<!-- /wp:spacer -->
+
+<!-- wp:vk-blocks/button {"buttonUrl":"/news/","buttonSize":"sm","buttonEffect":"none","buttonColor":"custom","buttonColorCustom":"vk-color-primary","buttonAlign":"center","fontAwesomeIconAfter":"\u003ci class=\u0022fa-regular fa-circle-right\u0022\u003e\u003c/i\u003e","blockId":"d1a1c309-0d29-4ae3-aa06-0d58de0a8edf"} -->
+<div class="wp-block-vk-blocks-button vk_button vk_button-color-custom vk_button-align-center is-style-none"><a href="/news/" class="vk_button_link btn has-background has-vk-color-primary-background-color btn-sm" role="button" aria-pressed="true" rel="noopener"><div class="vk_button_link_caption"><span class="vk_button_link_txt">お知らせ一覧を見る</span><i class="fa-regular fa-circle-right vk_button_link_after"></i></div></a></div>
+<!-- /wp:vk-blocks/button --></div>
+<!-- /wp:group -->

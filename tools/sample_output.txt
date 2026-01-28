@@ -1,0 +1,99 @@
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員を採用したとき、社会保険や雇用保険の届出は何日以内に行う必要があるかご存じですか？届出期限を過ぎると罰則の対象になる可能性もあります。この記事では、入社手続きの流れと必要書類を分かりやすく解説します。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-circle-info\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-circle-info"></i><h3 class="vk_borderBox_title">この記事のポイント</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>入社後5日以内に届出が必要です</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>必要書類は事前に確認しましょう</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>不明点は社労士に相談できます</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->
+
+<!-- wp:heading {"level":2,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading vk_block-margin-sm--margin-bottom has-large-font-size" style="font-style:normal;font-weight:700">入社手続きの流れ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"lineHeight":"1.8"}}} -->
+<p style="line-height:1.8">従業員を採用したら、社会保険と雇用保険の届出が必要です。届出を怠ると罰則の対象になる可能性があります。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"level":3,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"large"} -->
+<h3 class="wp-block-heading vk_block-margin-sm--margin-bottom has-large-font-size" style="font-style:normal;font-weight:700">必要な書類</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>年金手帳（基礎年金番号がわかるもの）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>雇用保険被保険者証（前職がある場合）</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>マイナンバー（個人番号）</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list -->
+
+<!-- wp:vk-blocks/alert {"style":"warning","icon":"\u003ci class=\u0022fa-solid fa-triangle-exclamation\u0022\u003e\u003c/i\u003e","iconText":"Warning"} -->
+<div class="wp-block-vk-blocks-alert vk_alert alert alert-warning has-alert-icon"><div class="vk_alert_icon"><div class="vk_alert_icon_icon"><i class="fa-solid fa-triangle-exclamation"></i></div><div class="vk_alert_icon_text"><span>Warning</span></div></div><div class="vk_alert_content"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出期限を過ぎると罰則の対象になる場合があります。余裕を持って準備しましょう。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:vk-blocks/alert -->
+
+<!-- wp:heading {"level":2,"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading vk_block-margin-sm--margin-bottom has-large-font-size" style="font-style:normal;font-weight:700">よくある質問</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出期限はいつですか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">入社日から5日以内に届出が必要です。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/faq2 {"className":"is-style-vk_faq-bgfill-rounded"} -->
+<div class="wp-block-vk-blocks-faq2 vk_faq  [accordion_trigger_switch] is-style-vk_faq-bgfill-rounded"><div class="vk_faq-header"></div><dl class="vk_faq-body"><!-- wp:vk-blocks/faq2-q -->
+<dt class="wp-block-vk-blocks-faq2-q vk_faq_title" aria-label="質問"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">届出を忘れた場合はどうなりますか？</p>
+<!-- /wp:paragraph --></dt>
+<!-- /wp:vk-blocks/faq2-q -->
+
+<!-- wp:vk-blocks/faq2-a -->
+<dd class="wp-block-vk-blocks-faq2-a vk_faq_content" aria-label="回答"><!-- wp:paragraph {"fontSize":"regular"} -->
+<p class="has-regular-font-size">遅延届出は可能ですが、理由書の提出を求められる場合があります。できるだけ早めに届出しましょう。</p>
+<!-- /wp:paragraph --></dd>
+<!-- /wp:vk-blocks/faq2-a --></dl><div class="vk_faq-footer"></div></div>
+<!-- /wp:vk-blocks/faq2 -->
+
+<!-- wp:vk-blocks/border-box {"headingTag":"h3","includeInToc":false,"faIcon":"\u003ci class=\u0022fa-solid fa-check\u0022\u003e\u003c/i\u003e","className":"is-style-vk_borderBox-style-solid-kado-tit-banner"} -->
+<div class="wp-block-vk-blocks-border-box vk_borderBox vk_borderBox-background-transparent is-style-vk_borderBox-style-solid-kado-tit-banner"><div class="vk_borderBox_title_container"><i class="fa-solid fa-check"></i><h3 class="vk_borderBox_title">まとめ</h3></div><div class="vk_borderBox_body"><!-- wp:list -->
+<ul class="wp-block-list">
+<!-- wp:list-item -->
+<li>入社後5日以内に届出が必要</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>必要書類は早めに確認</li>
+<!-- /wp:list-item -->
+<!-- wp:list-item -->
+<li>困ったら社労士に相談</li>
+<!-- /wp:list-item -->
+</ul>
+<!-- /wp:list --></div></div>
+<!-- /wp:vk-blocks/border-box -->

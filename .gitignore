@@ -16,3 +16,8 @@ node_modules/
 # Screenshots/Demo files (auto-generated)
 *_17652*.png
 *_17652*.webp
+
+# Environment variables and config
+.env
+tools/.env
+tools/config.yaml

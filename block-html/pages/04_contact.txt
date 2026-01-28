@@ -1,0 +1,99 @@
+<!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
+<div class="wp-block-group alignfull"><!-- wp:cover {"url":"https://www.miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp","id":340,"alt":"香川県の瀬戸大橋","dimRatio":50,"overlayColor":"vk-color-primary","isUserOverlayColor":true,"minHeightUnit":"px","sizeSlug":"full","align":"full","style":{"spacing":{"padding":{"top":"5rem","bottom":"5rem"}}}} -->
+<div class="wp-block-cover alignfull" style="padding-top:5rem;padding-bottom:5rem"><img class="wp-block-cover__image-background wp-image-340 size-full" alt="香川県の瀬戸大橋" src="https://www.miyabi-sr.jp/wp-content/uploads/seto-bridge-hero-optimized.webp" data-object-fit="cover"/><span aria-hidden="true" class="wp-block-cover__background has-vk-color-primary-background-color has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","className":"vk_block-margin-0\u002d\u002dmargin-bottom","style":{"typography":{"letterSpacing":"0.2rem"},"color":{"text":"#ffffff"}},"fontSize":"small"} -->
+<p class="has-text-align-center vk_block-margin-0--margin-bottom has-text-color has-small-font-size" style="color:#ffffff;letter-spacing:0.2rem">CONTACT</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"textAlign":"center","level":1,"className":"vk_block-margin-md\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"},"color":{"text":"#ffffff"}},"fontSize":"huge"} -->
+<h1 class="wp-block-heading has-text-align-center vk_block-margin-md--margin-bottom has-text-color has-huge-font-size" style="color:#ffffff;font-style:normal;font-weight:700">お問い合わせ</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","style":{"color":{"text":"#ffffff"},"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-text-color has-regular-font-size" style="color:#ffffff;line-height:1.8">ご相談内容を確認のうえ、2営業日以内にご連絡いたします。<br>坂出・高松・丸亀を中心に、オンラインで全国対応も可能です。</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"verticalAlignment":"center"} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"border":{"radius":"1rem","width":"1px","style":"solid"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"vk-color-light","borderColor":"cyan-bluish-gray","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","orientation":"vertical"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-vk-color-light-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-laptop\u0022\u003e\u003c/i\u003e","iconSize":40,"iconAlign":"center","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(40px + 44px);height:calc(40px + 44px)"><i style="font-size:40px" class="fas vk_icon_font fa-laptop"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">オンライン対応可</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"border":{"radius":"1rem","width":"1px","style":"solid"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"vk-color-light","borderColor":"cyan-bluish-gray","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","orientation":"vertical"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-vk-color-light-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022far fa-calendar-check\u0022\u003e\u003c/i\u003e","iconSize":40,"iconAlign":"center","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(40px + 44px);height:calc(40px + 44px)"><i style="font-size:40px" class="far vk_icon_font fa-calendar-check"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">2営業日以内に返信</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:group {"className":"is-style-vk-group-shadow","style":{"border":{"radius":"1rem","width":"1px","style":"solid"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"},"blockGap":"var:preset|spacing|30"}},"backgroundColor":"vk-color-light","borderColor":"cyan-bluish-gray","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center","orientation":"vertical"}} -->
+<div class="wp-block-group is-style-vk-group-shadow has-border-color has-cyan-bluish-gray-border-color has-vk-color-light-background-color has-background" style="border-style:solid;border-width:1px;border-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem"><!-- wp:vk-blocks/icon {"faIcon":"\u003ci class=\u0022fas fa-gift\u0022\u003e\u003c/i\u003e","iconSize":40,"iconAlign":"center","iconColor":"vk-color-primary"} -->
+<div class="wp-block-vk-blocks-icon vk_icon"><div class="vk_icon_frame text-center"><div class="vk_icon_border has-background has-vk-color-primary-background-color" style="width:calc(40px + 44px);height:calc(40px + 44px)"><i style="font-size:40px" class="fas vk_icon_font fa-gift"></i></div></div></div>
+<!-- /wp:vk-blocks/icon -->
+
+<!-- wp:paragraph {"align":"center","style":{"typography":{"fontWeight":"600","fontStyle":"normal"}},"fontSize":"regular"} -->
+<p class="has-text-align-center has-regular-font-size" style="font-style:normal;font-weight:600">初回相談無料</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"style":{"spacing":{"margin":{"top":"var:preset|spacing|40","bottom":"var:preset|spacing|40"}}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group" style="margin-top:var(--wp--preset--spacing--40);margin-bottom:var(--wp--preset--spacing--40)"><!-- wp:columns {"verticalAlignment":"stretch","style":{"spacing":{"blockGap":{"top":"2rem","left":"2rem"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-stretch"><!-- wp:column {"verticalAlignment":"stretch","width":"60%","style":{"border":{"radius":"1rem","width":"1px","style":"solid"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}},"borderColor":"cyan-bluish-gray"} -->
+<div class="wp-block-column is-vertically-aligned-stretch has-border-color has-cyan-bluish-gray-border-color" style="border-style:solid;border-width:1px;border-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem;flex-basis:60%"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-large-font-size" style="font-style:normal;font-weight:700">お問い合わせフォーム</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"lineHeight":"1.8"}},"fontSize":"regular"} -->
+<p class="vk_block-margin-sm--margin-bottom has-regular-font-size" style="line-height:1.8">以下のフォームに必要事項をご入力の上、送信してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"fontSize":"small"} -->
+<p class="has-small-font-size">送信後、自動返信メールをお送りします。<br>届かない場合は迷惑メールをご確認のうえ、再送してください。</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:shortcode -->
+[contact-form-7 id="f5ddee4" title="お問い合わせフォーム"]
+<!-- /wp:shortcode --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"stretch","width":"40%","style":{"border":{"radius":"1rem","width":"1px","style":"solid"},"spacing":{"padding":{"top":"1rem","bottom":"1rem","left":"2rem","right":"2rem"}}},"borderColor":"cyan-bluish-gray"} -->
+<div class="wp-block-column is-vertically-aligned-stretch has-border-color has-cyan-bluish-gray-border-color" style="border-style:solid;border-width:1px;border-radius:1rem;padding-top:1rem;padding-right:2rem;padding-bottom:1rem;padding-left:2rem;flex-basis:40%"><!-- wp:heading {"textAlign":"center","className":"vk_block-margin-sm\u002d\u002dmargin-bottom","style":{"typography":{"fontWeight":"700","fontStyle":"normal"}},"fontSize":"large"} -->
+<h2 class="wp-block-heading has-text-align-center vk_block-margin-sm--margin-bottom has-large-font-size" style="font-style:normal;font-weight:700">ご相談の流れ</h2>
+<!-- /wp:heading -->
+
+<!-- wp:vk-blocks/flow -->
+<div class="wp-block-vk-blocks-flow vk_flow-arrow-on vk_flow"><div class="vk_flow_frame"><dl class="vk_flow_frame_text"><dt class="vk_flow_frame_text_title">お問い合わせ</dt><dd class="vk_flow_frame_text_content">フォームからお気軽にご連絡ください。確認後にご返信いたします。</dd></dl></div></div>
+<!-- /wp:vk-blocks/flow -->
+
+<!-- wp:vk-blocks/flow -->
+<div class="wp-block-vk-blocks-flow vk_flow-arrow-on vk_flow"><div class="vk_flow_frame"><dl class="vk_flow_frame_text"><dt class="vk_flow_frame_text_title">ヒアリング</dt><dd class="vk_flow_frame_text_content">お困りごとを伺いながら、状況を一緒に整理します。</dd></dl></div></div>
+<!-- /wp:vk-blocks/flow -->
+
+<!-- wp:vk-blocks/flow -->
+<div class="wp-block-vk-blocks-flow vk_flow-arrow-on vk_flow"><div class="vk_flow_frame"><dl class="vk_flow_frame_text"><dt class="vk_flow_frame_text_title">ご提案・見積もり</dt><dd class="vk_flow_frame_text_content">必要な対応だけを組み立て、進め方と費用の目安をご案内します。</dd></dl></div></div>
+<!-- /wp:vk-blocks/flow -->
+
+<!-- wp:vk-blocks/flow {"arrowFlag":"vk_flow-arrow-off"} -->
+<div class="wp-block-vk-blocks-flow vk_flow-arrow-off vk_flow"><div class="vk_flow_frame"><dl class="vk_flow_frame_text"><dt class="vk_flow_frame_text_title">サポート開始</dt><dd class="vk_flow_frame_text_content">内容に納得いただけたら開始。手続きから運用まで丁寧に進めます。</dd></dl></div></div>
+<!-- /wp:vk-blocks/flow --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
